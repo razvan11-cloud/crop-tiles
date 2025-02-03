@@ -1,0 +1,2148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Locatii.kml</name>
+	<Schema name="RO000240789_2025" id="RO000240789_2025">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202514">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202513">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202512">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202511">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20259">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20258">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20257">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20256">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20255">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20254">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20253">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20250">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20251">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_20252">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202500">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202501">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202502">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202510">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO000240789_2025" id="RO000240789_202520">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2024" id="RO002357778_20240">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2024" id="RO002357778_20241">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2024" id="RO002357778_20242">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2024" id="RO002357778_2024">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2024" id="RO002357778_20243">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2024" id="RO002357778_20244">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2025" id="RO002357778_2025">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2025" id="RO002357778_20253">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2025" id="RO002357778_20251">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2025" id="RO002357778_20252">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Schema name="RO002357778_2025" id="RO002357778_20250">
+		<SimpleField type="string" name="FARM_ID"></SimpleField>
+		<SimpleField type="string" name="YEAR"></SimpleField>
+		<SimpleField type="string" name="JUDET"></SimpleField>
+		<SimpleField type="float" name="SIRUTA"></SimpleField>
+		<SimpleField type="string" name="COMMUNE"></SimpleField>
+		<SimpleField type="float" name="BLOC_NR"></SimpleField>
+		<SimpleField type="float" name="PARCEL_NR"></SimpleField>
+		<SimpleField type="string" name="CROP_NR"></SimpleField>
+		<SimpleField type="string" name="CAT_USE"></SimpleField>
+		<SimpleField type="float" name="CROP_CODE"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="AREA_DEC"></SimpleField>
+		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
+		<SimpleField type="string" name="COMMENT"></SimpleField>
+		<SimpleField type="string" name="INSERTED"></SimpleField>
+		<SimpleField type="string" name="UPDATED"></SimpleField>
+		<SimpleField type="string" name="STATUS"></SimpleField>
+		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+	</Schema>
+	<Style id="style3">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style4">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style5">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style8">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style6">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style7">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style04">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style02">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style03">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style05">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style01">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style00">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style000">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style001">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style12">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style2">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style21">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style20">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style30">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style40">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style50">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style05</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style04</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Locatii</name>
+		<open>1</open>
+		<Placemark>
+			<styleUrl>#stylemap_id2</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202511">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2038</SimpleData>
+					<SimpleData name="PARCEL_NR">344</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">7.68</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - sola 3453, partea de sus</SimpleData>
+					<SimpleData name="INSERTED">05.05.2012 07:49:21</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:28:47</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.169797681171,46.36684840435711,0 24.169797733161,46.3668484047334,0 24.1697989023919,46.3668484491905,0 24.1697993571683,46.3668484614808,0 24.1697996559747,46.3668484726421,0 24.1698025791878,46.36684857478729,0 24.1698071524032,46.36684873386789,0 24.16985567013021,46.36682720976015,0 24.16992724967297,46.36678663110802,0 24.17002661959202,46.36673510208073,0 24.17030112555568,46.36663594123866,0 24.17041677517392,46.3665872710334,0 24.17052713264958,46.36653722029885,0 24.17081937059914,46.36640054187473,0 24.170880536372,46.3664394969001,0 24.1720634222623,46.3673029021892,0 24.1731529095628,46.3680693374411,0 24.17323460646374,46.36811523979745,0 24.17333906990648,46.36818908881789,0 24.17345599972493,46.36826800658129,0 24.17374153125515,46.36852360671595,0 24.17407166853796,46.36875593850989,0 24.1741337592911,46.36881779501096,0 24.17416540553193,46.36885948004844,0 24.1740392296681,46.3690358663012,0 24.1740262316461,46.3690357727024,0 24.1736473038579,46.3694244793507,0 24.1736567062742,46.3694276875746,0 24.1735378636085,46.369527173918,0 24.1735567182922,46.3695337347181,0 24.1735567182922,46.3695337347181,0 24.1735503246394,46.3695405095345,0 24.1760984125567,46.3704184516992,0 24.1756715341799,46.3711442650643,0 24.1746633244033,46.37075907708239,0 24.1742112183678,46.3705668541039,0 24.1730019754532,46.3699795367619,0 24.1728706931128,46.3700649760064,0 24.1727219573219,46.3701871831795,0 24.1710894942636,46.3689605963016,0 24.1717088826647,46.3686609204373,0 24.1696120408652,46.36694323686961,0 24.1697959795484,46.36684660133209,0 24.16979714098411,46.3668480225087,0 24.1697974089031,46.3668483573938,0 24.169797447352,46.3668483936662,0 24.1697975383345,46.3668483943247,0 24.169797681171,46.36684840435711,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id01</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202502">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2038</SimpleData>
+					<SimpleData name="PARCEL_NR">345</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">4.28</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3453, partea de jos</SimpleData>
+					<SimpleData name="INSERTED">05.05.2012 07:51:01</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:29:00</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.17431937065476,46.3734158336857,0 24.1743320304564,46.3733640683889,0 24.1743307633089,46.373363609342,0 24.1743307817152,46.3733632495337,0 24.1743308029603,46.373362700777,0 24.1743311672361,46.3733531649692,0 24.17434749033724,46.37329071722412,0 24.17455840523903,46.37297697786071,0 24.17498057184773,46.37225254432958,0 24.17501964811889,46.37214523548054,0 24.17513988431324,46.3719752593556,0 24.17525101411877,46.37199055281663,0 24.17606859614729,46.3722559062569,0 24.1779898744576,46.372864421199,0 24.1779338599733,46.3729771401345,0 24.1778414419687,46.3731152079034,0 24.17782074444552,46.37314858508576,0 24.1778042170656,46.37317809267991,0 24.177803976622,46.3731785228853,0 24.1777912791804,46.3732017200332,0 24.1777620480026,46.3732551416626,0 24.1776845929279,46.3733966640039,0 24.1776835101154,46.37339865391199,0 24.1776834968471,46.3733986718139,0 24.1776586094463,46.37344415186959,0 24.1776137195605,46.373536190814,0 24.1775139237842,46.3737301671841,0 24.1775186954832,46.3737310022665,0 24.177315259758,46.37414807335689,0 24.17732056472594,46.37433258647211,0 24.17718944095931,46.37430912767401,0 24.17711264429976,46.37429311968778,0 24.17707541888004,46.3742840792611,0 24.1766678039972,46.37415776720569,0 24.17654436587094,46.37411460403636,0 24.17644633342333,46.37407248902469,0 24.1763877380424,46.374043295841,0 24.17592160710511,46.37387989413977,0 24.17543799562169,46.37374158177416,0 24.17511991274046,46.37365393608316,0 24.1748799101948,46.37359564587526,0 24.17479073543846,46.37356648497675,0 24.17462604831571,46.37350458857436,0 24.17454042158668,46.37348241764918,0 24.17431937065476,46.3734158336857,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20243">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2024</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">1872</SimpleData>
+					<SimpleData name="PARCEL_NR">120</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">5.09</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">24.03.2021 15:13:32</SimpleData>
+					<SimpleData name="UPDATED">24.04.2024 11:57:53</SimpleData>
+					<SimpleData name="STATUS">2</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2043349401273,46.4016241572071,0 24.204491353798,46.401744599157,0 24.2050576191957,46.4021624519922,0 24.205596199318,46.40179724611009,0 24.2078882695803,46.4034058156912,0 24.2083990150201,46.4031663827171,0 24.2083739106298,46.4031032204734,0 24.2080392539438,46.4028579533503,0 24.2075630917981,46.40250372678809,0 24.2068420322511,46.4019948321189,0 24.2063143822133,46.40160425055679,0 24.2058636029266,46.4012951845365,0 24.2063364907434,46.400974512669,0 24.2066784073397,46.4007159224547,0 24.2063558680505,46.4005337230762,0 24.2060984885315,46.40034297520829,0 24.205699352095,46.4000612610571,0 24.205338454695,46.3998338009942,0 24.2050676859275,46.39966995335691,0 24.2046084590267,46.39994572256061,0 24.2042808467272,46.4001144214355,0 24.2038352699032,46.4003452899894,0 24.20320604495461,46.4006828629491,0 24.2034497577921,46.4009185146584,0 24.203580022933,46.4010196688811,0 24.2038499323985,46.40112825626581,0 24.2040546327348,46.40136363594209,0 24.2043031662215,46.40159111263861,0 24.2043349401273,46.4016241572071,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20257">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">358</SimpleData>
+					<SimpleData name="PARCEL_NR">640</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">3.04</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">06.03.2023 21:15:07</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:31:48</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2210111910532,46.4096550940971,0 24.2210742704774,46.4096762062919,0 24.2218365042092,46.4098249589055,0 24.2218902137535,46.4098126919421,0 24.2218993489062,46.4098106026556,0 24.221924342088,46.4098048961653,0 24.2225569852778,46.40943553407391,0 24.2226162011873,46.4093914920944,0 24.2226478554127,46.4093664389926,0 24.2226827180617,46.40935090994061,0 24.222737165518,46.409326659101,0 24.2227587075588,46.4093170693773,0 24.2227671683618,46.4093133011412,0 24.2227765465398,46.4093099282164,0 24.2227781675792,46.409309344928,0 24.2227931913444,46.409303939658,0 24.2228322608992,46.40928988779899,0 24.2228633543677,46.4092787063931,0 24.2228669244482,46.4092740337394,0 24.22288181385,46.4092545269553,0 24.222885569242,46.409249603,0 24.2228962922529,46.40923555710869,0 24.223152315549,46.4088865325115,0 24.2231557533624,46.4088596235325,0 24.2231344778618,46.4088554572042,0 24.2231112896961,46.4088485875122,0 24.222985786903,46.4088633269919,0 24.2229857797723,46.4088633318288,0 24.2229857277421,46.4088633314764,0 24.2228762392098,46.4088683760048,0 24.222852183267,46.4088694818613,0 24.2228517146124,46.4088695056825,0 24.2228494053246,46.408869609769,0 24.2228491105518,46.4088696233471,0 24.2221125028886,46.4092403606414,0 24.2219989349442,46.4093147364543,0 24.2219426103187,46.409376875535,0 24.2219425837933,46.4093769113488,0 24.2218329677654,46.4094459417401,0 24.2215572513101,46.4094655418555,0 24.2215572252947,46.409465541679,0 24.2215572222033,46.4094655416581,0 24.2215572146872,46.4094655424169,0 24.2215477482207,46.409466631848,0 24.2215299921129,46.40946867734349,0 24.22152127490279,46.40946968001731,0 24.2214193915614,46.40948140658561,0 24.2212268829421,46.40950355910031,0 24.2211024327521,46.40952418463371,0 24.2210142163331,46.4094968605105,0 24.2209065848257,46.4094635285363,0 24.2208387433757,46.4094433433787,0 24.2208199616538,46.4094367009945,0 24.220287363259,46.40927174166979,0 24.2199666629221,46.40913472082,0 24.2199391443476,46.4091249864329,0 24.2195111602708,46.4093074435498,0 24.2191693780576,46.4095570739542,0 24.2185794204215,46.4098770008928,0 24.2180936470305,46.41018863634671,0 24.2177262216427,46.4104110924666,0 24.2176602845386,46.4104736318379,0 24.2177057640954,46.410502889796,0 24.2177098079581,46.4105039431837,0 24.2177185178857,46.41050620717331,0 24.2177266314999,46.4105083231225,0 24.2177271629026,46.4105084617214,0 24.217829694753,46.4105591558421,0 24.2178693357087,46.41058094124681,0 24.2180956358904,46.41067926141071,0 24.2181633686149,46.41070803192761,0 24.2185015029212,46.4108516733373,0 24.2186062304181,46.4108961650763,0 24.2187805839172,46.4109702299336,0 24.2187817461854,46.4109707229027,0 24.2188781442191,46.4110082816257,0 24.2189287837894,46.4109666217376,0 24.2189979982129,46.4109260420825,0 24.2192923509118,46.4107610795611,0 24.2195008660159,46.4106089940971,0 24.2197993345216,46.41042789712,0 24.2201333032689,46.4102147273392,0 24.2206319925913,46.4098098754686,0 24.2208114349239,46.4096855212275,0 24.2209058892255,46.4096482252569,0 24.220940859812,46.409631554667,0 24.2209423877038,46.409632059953,0 24.2210111910532,46.4096550940971,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20251">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">1551</SimpleData>
+					<SimpleData name="PARCEL_NR">372</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">0.60</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - Hagau, a doua obratie, 0.60ha</SimpleData>
+					<SimpleData name="INSERTED">01.05.2013 08:59:59</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:32:15</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2051856951191,46.4092199093201,0 24.2048255359969,46.4093865844535,0 24.204960683093,46.409486503567,0 24.2058436388697,46.4101405041748,0 24.2068169826184,46.4108428142545,0 24.2069996132646,46.4107180986247,0 24.2057053709899,46.4096266370923,0 24.2051856951191,46.4092199093201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20240">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2024</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2010</SimpleData>
+					<SimpleData name="PARCEL_NR">18</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">1.92</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3042, Detesan Toader, Deghi Alexandru</SimpleData>
+					<SimpleData name="INSERTED">03.04.2012 21:17:37</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 10:07:01</SimpleData>
+					<SimpleData name="STATUS">2</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1974563634383,46.4017008008245,0 24.19729377392679,46.4013635715487,0 24.1972189974966,46.40113126642411,0 24.1970508187022,46.4007939976408,0 24.1969322173865,46.4005034355896,0 24.1967664846312,46.4000000720838,0 24.1967500645378,46.3998617319569,0 24.1966515264246,46.3997283149442,0 24.1964708998011,46.3996280671731,0 24.1961594109618,46.3997599622286,0 24.1957795841014,46.4002284233813,0 24.1957765993702,46.40023239777201,0 24.1957762991905,46.40023246765559,0 24.1957260833692,46.4002944029338,0 24.195784338854,46.4003957918618,0 24.1957832919187,46.40039711629399,0 24.1959101730607,46.4006147871717,0 24.1959101859345,46.4006147962604,0 24.1963415764835,46.401354863448,0 24.1968495673624,46.402195275793,0 24.197555690934,46.4019879700035,0 24.1974563634383,46.4017008008245,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20241">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2024</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">1710</SimpleData>
+					<SimpleData name="PARCEL_NR">9</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">3017</SimpleData>
+					<SimpleData name="CROP_NAME">SFECLÄ‚ DE ZAHÄ‚R</SimpleData>
+					<SimpleData name="AREA_DEC">6.67</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">La Deag - 2950, Barbu Ioan</SimpleData>
+					<SimpleData name="INSERTED">03.04.2012 20:52:04</SimpleData>
+					<SimpleData name="UPDATED">07.03.2024 10:39:19</SimpleData>
+					<SimpleData name="STATUS">2</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.20820604197939,46.4119700108548,0 24.2081759367441,46.41196016581841,0 24.2081633349862,46.4119562455359,0 24.2080767158683,46.4119292914301,0 24.2080041362545,46.4119066994072,0 24.2077988827919,46.4118428155867,0 24.2075684763709,46.4117748433902,0 24.2071951649747,46.41168048096671,0 24.2072049766137,46.41169292157819,0 24.2068813300264,46.4115954098562,0 24.2068626101742,46.4115908532479,0 24.2068576061771,46.41158963087,0 24.206847546151,46.4115871857537,0 24.206504991755,46.4115135140584,0 24.2062101460174,46.4114414941385,0 24.2058739218948,46.4113269395294,0 24.2054029706858,46.4111559848206,0 24.2052359912031,46.4110996591258,0 24.205067746647,46.4110489664318,0 24.2050631710331,46.4110505094577,0 24.2050591575007,46.4110518674105,0 24.2050407896107,46.4110580660537,0 24.2053110008162,46.41136584796419,0 24.2053153346539,46.411370224214,0 24.2061593840395,46.4122871472347,0 24.2067712870783,46.4129799104696,0 24.2070557810265,46.4132864550232,0 24.2071030151051,46.4133534416538,0 24.2074892746593,46.41379170509801,0 24.2077391775907,46.4140165913368,0 24.2079719471146,46.41422442374811,0 24.2082222292882,46.4144305048354,0 24.2083053807594,46.4145186600654,0 24.2083798242243,46.4146242660685,0 24.2084152343259,46.41468587049701,0 24.208415247205,46.4146858795842,0 24.2084556085115,46.4147623205376,0 24.2093045271083,46.414583372646,0 24.2107573015678,46.414277115432,0 24.2107573928883,46.41427709806331,0 24.2108580448718,46.4142558791435,0 24.2107756089987,46.4141077382921,0 24.2107571309281,46.4141107156586,0 24.21051544273091,46.4141496269782,0 24.210219102414,46.4141973310462,0 24.2102096558228,46.4141992276843,0 24.2102032692882,46.4141882776556,0 24.2098568534082,46.4135941663894,0 24.2098564978426,46.4135935610476,0 24.2092907505133,46.4126232525587,0 24.2090691555141,46.41226931150669,0 24.2082251279258,46.4119762614709,0 24.2082111047241,46.4119716745014,0 24.20820604197939,46.4119700108548,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id5</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20250">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2022</SimpleData>
+					<SimpleData name="PARCEL_NR">136</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">6.13</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">30.03.2023 20:16:58</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 10:05:57</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.18442562279341,46.3774352108174,0 24.18423794374073,46.37719924731234,0 24.18420048107538,46.37652616653606,0 24.18435289270744,46.3759478324334,0 24.18477960333831,46.37528283756487,0 24.18502411422332,46.37503471830107,0 24.18543527511902,46.37433198498052,0 24.18592198488998,46.37352650684748,0 24.18643797105416,46.37278704001712,0 24.18661058047605,46.37252273846655,0 24.18688603524561,46.37183908937752,0 24.18762063846278,46.3719739501101,0 24.18731986573116,46.37264309665976,0 24.1870441100648,46.3730611276402,0 24.1883487710438,46.3736282743224,0 24.1879257517743,46.3741022013025,0 24.1877513090063,46.37446990504299,0 24.1875108025218,46.374909128639,0 24.1872047621123,46.3753838813908,0 24.1869649128252,46.3757781159094,0 24.1867368613801,46.3762534200925,0 24.1865245495194,46.37742172015949,0 24.18474864194,46.37724606871252,0 24.18442562279341,46.3774352108174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20253">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2022</SimpleData>
+					<SimpleData name="PARCEL_NR">102</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">3.14</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">30.03.2023 20:13:38</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 10:06:04</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1883424163738,46.3697761277613,0 24.1883356721341,46.3697865183178,0 24.1883056232404,46.3698406747221,0 24.1882298823273,46.3700663434383,0 24.188226994571,46.3700805496563,0 24.1882244011737,46.3700933091962,0 24.188224261888,46.37009393810659,0 24.1882238269127,46.3700961036707,0 24.1882238266469,46.3700961216659,0 24.188223813117,46.37009615756419,0 24.188223758333,46.3700963461453,0 24.1882233887734,46.37009760332219,0 24.1882202822707,46.370108136597,0 24.1882019174158,46.3701703753425,0 24.188201903753,46.3701704202384,0 24.1881978257194,46.37018424009361,0 24.1881969497036,46.3701872214012,0 24.1881967444954,46.3701879128346,0 24.1881967309654,46.3701879487329,0 24.1881967175684,46.3701879756336,0 24.1881967174355,46.3701879846312,0 24.1881261210531,46.3703196551792,0 24.1880643883878,46.3704320866065,0 24.1880643752565,46.3704320955121,0 24.1879551289042,46.37057527141479,0 24.1879473875622,46.3706100228692,0 24.1879470673275,46.3706114603646,0 24.1879453687839,46.3706190790811,0 24.1879382263783,46.3706511262216,0 24.1879292742494,46.3706912772102,0 24.1878852384484,46.3707849009454,0 24.1878556492537,46.3707894066693,0 24.1877589598195,46.37080413649,0 24.1877002460484,46.3708881357853,0 24.1875823285855,46.3709502902763,0 24.1875302015415,46.37095891957811,0 24.1874515453585,46.37100335499209,0 24.1873990191435,46.3710389769529,0 24.1873464928605,46.3710745988891,0 24.187280834911,46.37111912627481,0 24.1872463775765,46.37114249423151,0 24.1872194185596,46.3711651594349,0 24.1872116652717,46.37117167341191,0 24.1871871230487,46.3711923042579,0 24.1871774930631,46.37120300705399,0 24.1871678840839,46.3712136921878,0 24.1871981492265,46.37122226574981,0 24.1872013665924,46.37121844670531,0 24.187580807737,46.371330704531,0 24.1893632501337,46.3718357460286,0 24.1893778414043,46.37172786699559,0 24.1893917690691,46.3716649758328,0 24.1894182972532,46.37162916925061,0 24.1894413668768,46.371605738173,0 24.18945755867029,46.3716114496658,0 24.1896199100024,46.37144522443891,0 24.1897794676838,46.37121799632111,0 24.1898124005114,46.3711436492591,0 24.1898143138197,46.3711443736559,0 24.1898143396842,46.3711443828371,0 24.1898147533833,46.3711445387339,0 24.1898157099712,46.3711449054311,0 24.1898276293861,46.3711494168888,0 24.1898736532409,46.3710838728327,0 24.1898498279623,46.3710739321726,0 24.1898586969053,46.37102081359671,0 24.1898587101691,46.3710207956933,0 24.1899428842029,46.3708205973322,0 24.1899581874962,46.37080808049001,0 24.1899630868335,46.3707976048245,0 24.1899978205489,46.3707756777691,0 24.190076310191,46.3707115056979,0 24.1901602692225,46.3706704983702,0 24.1902778749885,46.3705674947809,0 24.1902778751211,46.3705674857833,0 24.1903116163194,46.3705467304317,0 24.1903791904378,46.3704936932489,0 24.190454215752,46.37040077320649,0 24.1904991105838,46.370337650524,0 24.1905273217207,46.37031987958199,0 24.1905556954112,46.3702795954959,0 24.190568693028,46.37024531289019,0 24.1905086809418,46.3702315625839,0 24.1883655894493,46.3697403876516,0 24.1883424163738,46.3697761277613,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id30</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202520">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2022</SimpleData>
+					<SimpleData name="PARCEL_NR">672</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">1.06</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">06.05.2020 17:13:34</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:30:42</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.18821458623143,46.36919915502457,0 24.18855696489679,46.36927216769853,0 24.1881914521256,46.3699644692008,0 24.1881835340228,46.370010323594,0 24.1881273626006,46.3701352843627,0 24.1880214577243,46.3703638259163,0 24.18796464842022,46.37056820911349,0 24.18774607438053,46.37063748531703,0 24.1875538068755,46.37082546337628,0 24.18751126376093,46.3709381032992,0 24.18743616276091,46.37097231344434,0 24.18733409892663,46.37103722093932,0 24.18719794407052,46.37118119137012,0 24.1870704761894,46.37131532025385,0 24.18700659152956,46.37143214870047,0 24.18690086095816,46.37162663219124,0 24.18673687238357,46.37187637038526,0 24.18650350004953,46.37179387819192,0 24.18650782418524,46.37167014373338,0 24.18685136268313,46.37118359322211,0 24.1871280591518,46.3707069824132,0 24.1871280590464,46.37070698104061,0 24.1871970975305,46.37029230718079,0 24.1872053510461,46.3702792098341,0 24.1872055372809,46.3702789232012,0 24.1872066025041,46.37027722187881,0 24.1872067493002,46.3702769890467,0 24.1872365350575,46.3702196185956,0 24.1872449835841,46.3701370720718,0 24.1872458015176,46.3701313886509,0 24.1872538783362,46.3700753053478,0 24.1872642670588,46.37000308486881,0 24.1872900649498,46.3699103309684,0 24.1873021495052,46.36989836757589,0 24.187322230583,46.369878486536,0 24.187328456276,46.3698723242202,0 24.1873618180779,46.3698174896553,0 24.1873844743576,46.36975256388651,0 24.1873750641139,46.3696548722959,0 24.1873748671474,46.369653063083,0 24.1873719168818,46.369625918826,0 24.187371126832,46.3696186874186,0 24.1874048608596,46.36949733842739,0 24.1874678764818,46.3694168521606,0 24.1874832057318,46.3693995642506,0 24.1875723056145,46.3693675627681,0 24.1876216464336,46.3693551518286,0 24.1876345671777,46.36935190273569,0 24.1876872081259,46.3693321458609,0 24.1877767945159,46.3692629797398,0 24.1878756287332,46.3692650214418,0 24.1878839529446,46.3692605885597,0 24.1878870912695,46.3692589185329,0 24.1878930136107,46.36925576598991,0 24.1879303427415,46.36923589159441,0 24.1879511315647,46.3692136425875,0 24.187991397616,46.3691705665419,0 24.18804055274289,46.36916764104801,0 24.18821458623143,46.36919915502457,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202510">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2022</SimpleData>
+					<SimpleData name="PARCEL_NR">420</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">1.25</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - sub pasune, langa vale</SimpleData>
+					<SimpleData name="INSERTED">19.04.2012 19:33:35</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:31:00</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1887897041702,46.3689085949758,0 24.188789864373,46.3689084439663,0 24.1887898643793,46.36890844353919,0 24.1887903126865,46.36890801478091,0 24.1887913672694,46.3689070234036,0 24.1887968118133,46.3689018877608,0 24.1888560299483,46.3688221666365,0 24.1888686631188,46.36879365630219,0 24.1888859373649,46.36875466338199,0 24.1889545716702,46.3685997712783,0 24.1889655713684,46.3685749501526,0 24.1890956990186,46.3683993012393,0 24.1891421818648,46.3683157636458,0 24.1891838452799,46.3682557860836,0 24.1891840324267,46.3682554364643,0 24.18918404569,46.368255418561,0 24.1892478539309,46.3681411924611,0 24.1892601425916,46.3681285554141,0 24.1892979719799,46.36808966123739,0 24.1892999914379,46.3680875878541,0 24.189302314491,46.3680852016684,0 24.189377260565,46.3679772811909,0 24.1893949545323,46.36783522961281,0 24.1894318546601,46.3677791146529,0 24.1894367493066,46.3677698267749,0 24.1894475985501,46.36775518186351,0 24.1895757971292,46.3675602529197,0 24.1897641528234,46.3672419651273,0 24.1898249287653,46.3671234069767,0 24.1899371937877,46.366941304939,0 24.1900479550644,46.36674652224819,0 24.1900990241573,46.36667353590491,0 24.1901059834338,46.366567339486,0 24.1901081622868,46.36655356013531,0 24.1901084992428,46.3665514730763,0 24.1901087636038,46.3665498025167,0 24.190108764127,46.3665497670083,0 24.1901103979012,46.3665394572385,0 24.1901155006729,46.3665072065685,0 24.1901180086892,46.3664913778785,0 24.1901183581499,46.3664676602392,0 24.1901180894349,46.3664656066785,0 24.190115081444,46.3664421442864,0 24.1901143820688,46.3664366772447,0 24.1901134712964,46.3664295278212,0 24.1901125242054,46.3664221379576,0 24.1900182851873,46.3663755915802,0 24.1900170573259,46.366375114986,0 24.1899534418496,46.3663503787123,0 24.1899266230928,46.3663399489852,0 24.1899225086144,46.3663383474589,0 24.1899212016845,46.3663378392404,0 24.1897079266822,46.3662723910382,0 24.1896637014385,46.3662602815346,0 24.189592740391,46.36625857437679,0 24.1895593947874,46.3663487559346,0 24.1895543041161,46.3663625326986,0 24.1895500446487,46.3663740422399,0 24.1895470635622,46.36638210521429,0 24.1895074953967,46.3664717719153,0 24.1895041614334,46.36647933016499,0 24.1894227592749,46.3666638005586,0 24.1894144752318,46.3666825669254,0 24.1894144750991,46.366682575923,0 24.1893024046188,46.366867270414,0 24.1892877486013,46.36689141785951,0 24.1892839531586,46.3668976729217,0 24.1892646481469,46.36694461626681,0 24.189152551585,46.3672172075211,0 24.189131583897,46.3672718602919,0 24.1891229032494,46.3672893010493,0 24.1889661795962,46.3676703961875,0 24.1889211047343,46.3677563192869,0 24.1889207046302,46.3677570820702,0 24.1888701715544,46.3678534230316,0 24.1887866340826,46.3680167043116,0 24.1887735784176,46.3680962758789,0 24.188735655765,46.3681995896323,0 24.1886896071122,46.3683056354355,0 24.1886236771283,46.3683891432665,0 24.1885495664795,46.36847819926309,0 24.1884313202923,46.36854454562269,0 24.1884305471545,46.3685453373842,0 24.1884304487145,46.3685454383711,0 24.1884300262704,46.3685458763095,0 24.1884284028123,46.3685475385474,0 24.1884237109324,46.3685536423404,0 24.1883682579878,46.3686248061956,0 24.1883689119541,46.36863157771,0 24.1883690804831,46.3686333696079,0 24.1883697347153,46.368640123127,0 24.1883700053451,46.3686429235817,0 24.1883700158186,46.3686430946276,0 24.1883700157306,46.36864310058159,0 24.1883700161138,46.368643104565,0 24.1883405652454,46.3686779364018,0 24.1883402220223,46.3686781108626,0 24.1883399230004,46.3686782638655,0 24.1883382333734,46.36867912476561,0 24.1883330991035,46.3686817339987,0 24.188328750691,46.3686839438591,0 24.188328318436,46.36868416576331,0 24.1883178534627,46.3686894818219,0 24.18829120680291,46.3687236765978,0 24.1883195233295,46.36874277387309,0 24.1883133674285,46.36880751965089,0 24.1887897041702,46.3689085949758,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id00</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202501">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2022</SimpleData>
+					<SimpleData name="PARCEL_NR">335</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">5.54</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">13.03.2023 21:16:59</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:30:52</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1902175008708,46.3664508401121,0 24.1901943794674,46.36643295877911,0 24.1909546637208,46.3666998301329,0 24.190961558815,46.3667082743892,0 24.1909445218935,46.3667097289583,0 24.1909567247558,46.3667496784858,0 24.1909567249829,46.3667496787676,0 24.1909567251839,46.3667496794256,0 24.1910321326892,46.3668432290159,0 24.1911271288613,46.3669103440627,0 24.1911283080867,46.3669104485935,0 24.1911284395979,46.3669104603516,0 24.1911285174509,46.3669104698992,0 24.1911286602917,46.36691047990501,0 24.1911296469147,46.36691056784949,0 24.1911297637603,46.366910577672,0 24.1912388501462,46.366920327431,0 24.1912991293124,46.36692717739591,0 24.1912993498739,46.36692720594651,0 24.1913099133452,46.3669284052401,0 24.1913153424791,46.36692902028779,0 24.1913188032065,46.3669294136993,0 24.1913953843296,46.36694324442,0 24.1914524553461,46.3669790829198,0 24.19153491021889,46.3670283911284,0 24.1915349569054,46.36702840850869,0 24.1915353104662,46.36702854598759,0 24.1915360862191,46.3670288304097,0 24.1915401973518,46.36703036214009,0 24.1915447610183,46.3670320590334,0 24.1915546898358,46.3670357554198,0 24.1916802092972,46.36708248752291,0 24.1916976882452,46.3670889906517,0 24.1918388685924,46.3671244408155,0 24.1918453009228,46.3671272396841,0 24.1918681147422,46.3671384851517,0 24.1919293828993,46.36718177014959,0 24.1919296630372,46.3671818696018,0 24.1919309729781,46.3671823383234,0 24.1919379301194,46.3671848079389,0 24.19196480176,46.3671943467097,0 24.1919861128657,46.3672019116207,0 24.1919940528058,46.36720473009979,0 24.192024183205,46.3672154256266,0 24.1920242219334,46.3672154438964,0 24.1920521798508,46.3672253682365,0 24.1920559299885,46.36722669943791,0 24.1920563696599,46.3672268555098,0 24.192056550701,46.3672269197747,0 24.192056668251,46.36722695776649,0 24.1920566934419,46.3672269667095,0 24.1920574427098,46.3672271088595,0 24.1920608540139,46.3672277599539,0 24.1920660910408,46.36722875068621,0 24.1920662854764,46.3672287880499,0 24.1920788983222,46.367231180514,0 24.1920930796515,46.3672338719772,0 24.1921970668217,46.3672545361029,0 24.1922558242177,46.3672685556642,0 24.1922683503684,46.3672715413991,0 24.1922720291397,46.3672724221649,0 24.1922733504045,46.367272737419,0 24.1922734619172,46.3672727588476,0 24.1922735711315,46.3672727849027,0 24.1923587702739,46.3672942646878,0 24.1923614951123,46.367294954556,0 24.192495795955,46.3673129793231,0 24.1927351167463,46.3673574968803,0 24.1927954566237,46.367370879408,0 24.1927400136045,46.36764274841371,0 24.192659147106,46.367827656719,0 24.1926646435819,46.3678278033891,0 24.19245661031,46.3681645752428,0 24.192127862487,46.3685977885129,0 24.191931041085,46.3687223813233,0 24.1917590240235,46.36892813523491,0 24.1914809032256,46.36927711728719,0 24.19145287129795,46.36927184463735,0 24.19142034226372,46.3692651454685,0 24.19136793050141,46.36925064411832,0 24.19133381887497,46.3692369600508,0 24.19128004564752,46.36921556416994,0 24.19063060352364,46.36900567276832,0 24.19023538358466,46.36891801105796,0 24.18992984614066,46.36888803290799,0 24.18957010874175,46.36885838330269,0 24.18933028081515,46.36888067416943,0 24.18908132108472,46.36888464592791,0 24.18891268512102,46.36888944486028,0 24.1888634880782,46.36889029335,0 24.1888635337306,46.36889021884951,0 24.1888637007994,46.3688899518417,0 24.1888647397418,46.3688882584688,0 24.1888722789367,46.368875956817,0 24.1888833214552,46.368857929885,0 24.1888907140785,46.36884587015551,0 24.1888938843532,46.36884069143,0 24.1889078571904,46.3688178890065,0 24.188908496497,46.368816849699,0 24.1889165888816,46.3688036374907,0 24.1889187535505,46.36880010493421,0 24.1889187681122,46.3688000780985,0 24.1889188464984,46.36879994268129,0 24.1889188866874,46.3687998619788,0 24.1889193409678,46.3687990283289,0 24.1889210380531,46.3687958998462,0 24.1889355900046,46.3687690881747,0 24.1890391376046,46.36857825984491,0 24.1890391911894,46.3685781522415,0 24.1890583819992,46.3685488177715,0 24.1891230299512,46.3684499671548,0 24.18917057479,46.3683772712763,0 24.1891712530803,46.3683762322429,0 24.1891808284555,46.3683615963501,0 24.1891851663387,46.3683549565068,0 24.1891870796537,46.36835203105711,0 24.1892949942718,46.36819383519061,0 24.1893879936985,46.3680656705676,0 24.1894668546049,46.3679691230035,0 24.1895496276721,46.367877117143,0 24.1895988576792,46.3677746938505,0 24.1896036283763,46.3677647789756,0 24.1896702513749,46.3676173589796,0 24.1896777265371,46.3676008083874,0 24.1897118306809,46.367525344752,0 24.1897760704878,46.3673755063086,0 24.1899200490866,46.3670914712532,0 24.1899413914752,46.3670488892784,0 24.1899528435102,46.3670260465646,0 24.1899657005591,46.367000392593,0 24.1900199140663,46.3668922352738,0 24.1900397661281,46.36686065817539,0 24.19017870382689,46.3666397371791,0 24.1902207509961,46.36654878516499,0 24.1902209507343,46.36654826424239,0 24.1902175008708,46.3664508401121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id04</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20258">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2022</SimpleData>
+					<SimpleData name="PARCEL_NR">338</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">10.55</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">30.04.2023 09:14:27</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:31:14</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1939326617254,46.36253648323899,0 24.193937336698,46.3626280761246,0 24.1939244070836,46.36274131272451,0 24.1939129375111,46.3628418446612,0 24.1938878666883,46.3629321036663,0 24.1938849639323,46.36313005087801,0 24.1938563316071,46.36330982018711,0 24.1938532967578,46.36351676497989,0 24.1938370011578,46.3637416136106,0 24.1937681440569,46.36391660087669,0 24.1937823746212,46.3639212001697,0 24.1936884930542,46.3641185077931,0 24.1936183608546,46.3644689572363,0 24.1936191400807,46.3645514072006,0 24.1935897601591,46.36471468583759,0 24.1935665263196,46.3647372257605,0 24.1933619796061,46.36488985115029,0 24.1933283400612,46.36491993959339,0 24.1933387094597,46.36491751093169,0 24.1932056324888,46.3656268104048,0 24.1931353903076,46.365666503698,0 24.193135155168,46.3656665830305,0 24.1931344104933,46.3656668387491,0 24.1931313536786,46.36566787007249,0 24.1930799899194,46.3657249642999,0 24.1930127578584,46.3658774661773,0 24.1930473206855,46.3659005296002,0 24.1930380920406,46.3659226370316,0 24.1929704840794,46.3662361737835,0 24.1929557485446,46.3662190089047,0 24.1929455972872,46.3669103838432,0 24.1929374484302,46.3669881907022,0 24.1929195576369,46.3670832061695,0 24.19279570427113,46.36729039263385,0 24.19258030086747,46.36724817149142,0 24.19227719907415,46.36718455357068,0 24.19199034671986,46.36710050680451,0 24.1917319866302,46.36698495702564,0 24.19125759222376,46.36677582318427,0 24.1910658121198,46.3666798454894,0 24.1908569422539,46.3666271526226,0 24.1905205975146,46.3665167971193,0 24.190339693272,46.3664435320752,0 24.190145659514,46.3663791725631,0 24.1901737753862,46.366235394703,0 24.1902297415773,46.3659658341229,0 24.1902563989888,46.36592102970059,0 24.1902831888999,46.3658672276829,0 24.1902967163765,46.3658313290828,0 24.1903505610417,46.3657057298408,0 24.1903731955192,46.3656313368382,0 24.1903939475088,46.3656088520302,0 24.1904282128625,46.36557171401849,0 24.1904668502207,46.3655298556329,0 24.1905091810206,46.36545079640331,0 24.190568499901,46.36534002026279,0 24.19057697814261,46.36526477143659,0 24.19088753723,46.36454870930271,0 24.1908596837634,46.3644099354988,0 24.1909090233586,46.3642846731217,0 24.1909075380723,46.3642884420256,0 24.1908913779564,46.3642877791175,0 24.1908793080957,46.3642247042814,0 24.1909206826669,46.3640630226557,0 24.1909478682945,46.363982227674,0 24.1909104819732,46.3639612673355,0 24.1909419903885,46.3638517075577,0 24.1909982171246,46.36365233683831,0 24.1910328065891,46.36347294318329,0 24.1910242728692,46.3634716501947,0 24.1910394879683,46.3630560254625,0 24.1911742204122,46.3627330285965,0 24.1914147760864,46.3622847982168,0 24.1915204681007,46.3621685623859,0 24.192677299878,46.3622568879776,0 24.1926828403832,46.3622575388767,0 24.1927591370963,46.3622708448083,0 24.193492627678,46.3624074104462,0 24.1937293581734,46.3624419194748,0 24.1938285486563,46.3624629263947,0 24.1939326617254,46.36253648323899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_2025">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">6053</SimpleData>
+					<SimpleData name="PARCEL_NR">663</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">97481</SimpleData>
+					<SimpleData name="CROP_NAME">LUCERNÄ (sămânță certificată)</SimpleData>
+					<SimpleData name="AREA_DEC">5.33</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3005, sola noua, jos catre Seulia</SimpleData>
+					<SimpleData name="INSERTED">02.06.2015 16:30:01</SimpleData>
+					<SimpleData name="UPDATED">27.05.2024 15:07:23</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2190514655748,46.4087089052831,0 24.2190731140482,46.4087080555377,0 24.2190731146423,46.40870805725849,0 24.2190731154952,46.40870805722491,0 24.2190803491299,46.4087290085257,0 24.2192232177353,46.4087807041558,0 24.219252687868,46.40879136273711,0 24.2192617732292,46.40879465498519,0 24.2193007231894,46.4088110091605,0 24.21946778646249,46.4088811725222,0 24.2195037364413,46.40889626444,0 24.2196453119114,46.4089557260269,0 24.2196590729482,46.4089615057924,0 24.2197554410773,46.4090019762869,0 24.2202068255801,46.40918217270011,0 24.2206235640917,46.4093433457004,0 24.220920991435,46.40943661311081,0 24.2209210034234,46.4094366131922,0 24.2209213796252,46.4094366877338,0 24.2209294480702,46.4094383172361,0 24.2209667938221,46.4094458594994,0 24.2210447932577,46.4094616053322,0 24.2211065234202,46.40948617610501,0 24.2212246537633,46.40948187579081,0 24.2212279597635,46.4094817542533,0 24.2212288113058,46.4094817263899,0 24.2212307442857,46.4094816559855,0 24.22123560181,46.409481009159,0 24.2212419670443,46.40948015761471,0 24.2213686403484,46.4094632903555,0 24.2215183960158,46.4094433491246,0 24.2216141402665,46.409432453671,0 24.2216742214451,46.40942561748679,0 24.2217030046816,46.4094223393286,0 24.2217345762807,46.40941874713359,0 24.2217486877203,46.40941714214119,0 24.2217550304728,46.4094164237092,0 24.22176322782,46.4094154908695,0 24.2218116639268,46.4093847820986,0 24.2218348495475,46.4093700798774,0 24.2218751359851,46.409344536623,0 24.22190346375301,46.4093265789132,0 24.2219433169209,46.4093013116477,0 24.2222601791104,46.40911828134839,0 24.2222992028282,46.40909736356971,0 24.2223593441434,46.4090651249126,0 24.2224968508048,46.40899142385679,0 24.222504422612,46.4089873655271,0 24.2225964046764,46.40893806210529,0 24.222655075408,46.40890980778281,0 24.2226648856907,46.4089050797114,0 24.2226903746068,46.40889280757071,0 24.2227367157543,46.4088704904671,0 24.2228512324545,46.4088153409617,0 24.2227533271126,46.4087979587866,0 24.2226510618709,46.4087798001236,0 24.2226213594485,46.4087745237978,0 24.2226172657057,46.4087737959821,0 24.2225205415819,46.4087566215668,0 24.221819699384,46.4086712781836,0 24.2212198180525,46.4085518867124,0 24.2211850994817,46.408533849017,0 24.2211841347347,46.4085333478288,0 24.221137310134,46.4085090222372,0 24.2210820143261,46.4084802928882,0 24.2210156903701,46.4084458376407,0 24.22078862612121,46.4083154746193,0 24.2204723451921,46.4081845050876,0 24.2202731944178,46.4081186423438,0 24.2202559583179,46.4081129390413,0 24.2200166712008,46.4080338005716,0 24.2199918019242,46.40802800335,0 24.2199909356373,46.40802780163641,0 24.2199797592103,46.4080251971072,0 24.2199730818942,46.40802363998219,0 24.2199688680516,46.4080226575049,0 24.2199239289933,46.4080121837959,0 24.2199239276011,46.4080121812841,0 24.219923925703,46.40801218084161,0 24.2198816665102,46.4079359412602,0 24.2198730553675,46.4079204140085,0 24.2198538780535,46.407885810687,0 24.2198734565926,46.4078619630126,0 24.21988636322,46.4078462495377,0 24.2198874751387,46.407844898336,0 24.2198875545889,46.4078447998935,0 24.2198894001125,46.4078425539437,0 24.2198972282921,46.4078330198785,0 24.2199116924149,46.4078227114748,0 24.2199235803171,46.407814234227,0 24.21992645832,46.40781218415611,0 24.2200263198097,46.4075589006305,0 24.2202135969605,46.40721128677029,0 24.2202191774164,46.4071746238439,0 24.220019956531,46.407103336681,0 24.2198591273542,46.4070457899757,0 24.219776916105,46.407016373071,0 24.2197410652559,46.4070035405053,0 24.2197405617296,46.40700339634801,0 24.2191691953231,46.4068399672828,0 24.2185094466157,46.4066560544792,0 24.2183350888296,46.40661461843219,0 24.2182767881322,46.40660076615431,0 24.2182366373417,46.4065912242385,0 24.2181003444641,46.4066354316742,0 24.2180952084856,46.4066370973781,0 24.2180866746631,46.4066398647306,0 24.2180846359567,46.4066405257198,0 24.2180838753723,46.4066407719155,0 24.2180826720281,46.4066411622643,0 24.218018316145,46.40663067158171,0 24.2179989751188,46.4066397642361,0 24.2179708702019,46.4066529781039,0 24.2178502167747,46.40670970065391,0 24.2177213387748,46.4067702903183,0 24.2176093977433,46.40682263578999,0 24.2175816350469,46.4068356201766,0 24.2175763804794,46.40683807374121,0 24.217557292208,46.4068469999903,0 24.2174828582306,46.40689748385181,0 24.2174196031633,46.4069802490302,0 24.21737428415,46.4070326124847,0 24.2174621401293,46.4073093643451,0 24.2176965762014,46.4076180966825,0 24.2178102311643,46.40774688300671,0 24.2178628284463,46.4077895431028,0 24.21790044422711,46.4078200637468,0 24.2180154290123,46.4079133357555,0 24.2181840786928,46.4080580660884,0 24.2182243807636,46.40804163794621,0 24.2183214279834,46.4081483727985,0 24.2184984050195,46.4082855511934,0 24.2185086978873,46.4082935268619,0 24.2185762225883,46.408345862601,0 24.2185938885617,46.4083595615166,0 24.2186126633443,46.4083757875369,0 24.2186140770041,46.4083770029513,0 24.2186975162987,46.4084491175293,0 24.2187174219716,46.408466323061,0 24.2187209998869,46.4084694158769,0 24.2187382940912,46.4084843620642,0 24.2187680943613,46.4084888009127,0 24.2187908746908,46.4085238448725,0 24.2189792309885,46.4086472380923,0 24.2190060370848,46.4086714464587,0 24.2190082260474,46.4086734216113,0 24.219008264558,46.4086734578671,0 24.2190514655748,46.4087089052831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id02</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20259">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">5972</SimpleData>
+					<SimpleData name="PARCEL_NR">664</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">12.18</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3496</SimpleData>
+					<SimpleData name="INSERTED">01.05.2013 09:13:15</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:28:33</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1632288054227,46.36443124608469,0 24.16270481766,46.36469737844549,0 24.1620768485987,46.3649627488231,0 24.1619851835395,46.3650070718431,0 24.1617891303275,46.3650776275957,0 24.1616998189657,46.36509458502,0 24.1616978765035,46.36509495776019,0 24.1616826540814,46.365079692953,0 24.1616826542186,46.3650796839555,0 24.1616826413588,46.3650796748629,0 24.161682628499,46.3650796657704,0 24.161544244949,46.3649408595382,0 24.1614118301023,46.3648198329029,0 24.1612474563467,46.3646696060881,0 24.1606417865258,46.3639015137195,0 24.1605251109123,46.3637527956833,0 24.1604255670516,46.3636628284659,0 24.1601496932805,46.3633582955351,0 24.1600153403893,46.3631731563615,0 24.1599132955572,46.3631023732678,0 24.1598688042916,46.3630495768402,0 24.1598659573481,46.3630461995276,0 24.1598322237815,46.3630175260081,0 24.1598319928687,46.3630173263485,0 24.1597642562147,46.36295976133891,0 24.1597530417741,46.3629502217074,0 24.1597294835124,46.36293019831781,0 24.1597291241478,46.36292989873291,0 24.1597118777362,46.3629297723815,0 24.1597160680492,46.3629388016307,0 24.1596980480008,46.3629000028414,0 24.1596973558853,46.3628985130099,0 24.1596909001988,46.36288462594301,0 24.1587892926505,46.3632143285786,0 24.1584886081783,46.3633077414527,0 24.1581693418693,46.3629364580059,0 24.1578637654999,46.3625202813821,0 24.15830569909037,46.36240680958335,0 24.15834513465171,46.36235532887579,0 24.1579501187085,46.36204880635739,0 24.1579483762647,46.3620437633739,0 24.1579391544404,46.36204163500059,0 24.1579388566275,46.3620415608257,0 24.1578717599676,46.3619984240518,0 24.1577777594293,46.3620044017488,0 24.1577320647474,46.3619938618334,0 24.1577001388988,46.3620034088038,0 24.157674911723,46.3620109442929,0 24.15750679752703,46.36206278756573,0 24.15741241665561,46.36208871237195,0 24.15735135421167,46.36206391228949,0 24.15722491912521,46.36191835576011,0 24.15696375623515,46.36151273603565,0 24.15686518981191,46.3613262052236,0 24.15682955546276,46.36121867515745,0 24.1568708811298,46.3611542052547,0 24.15906284189611,46.35975752472531,0 24.1590629067202,46.35975328688041,0 24.1591237367097,46.3597165598449,0 24.1594165477234,46.3598341127524,0 24.1598550835208,46.3600547131027,0 24.1601728606435,46.3603146870948,0 24.1601974193887,46.36033381787939,0 24.160314497512,46.36042502058481,0 24.16046299543064,46.36054729710935,0 24.159777243003,46.36076994451337,0 24.15961059043583,46.36081629351987,0 24.15881114737768,46.36106906863171,0 24.15888869300925,46.3611858089299,0 24.1589316274004,46.3612310971888,0 24.15915594359418,46.36154588738179,0 24.1608685455924,46.3610077995364,0 24.1609060271245,46.3611076517437,0 24.161020860775,46.3612907484932,0 24.1610418480891,46.3613242146539,0 24.1610550573016,46.3613452689042,0 24.1610649800166,46.3613610889517,0 24.16114698114369,46.3614803976262,0 24.1611484052777,46.3614824687106,0 24.1611762202714,46.3616920144448,0 24.1612248409508,46.3618268533745,0 24.1612322980759,46.36184753258849,0 24.1612334951995,46.36185085281,0 24.1612431720454,46.3618776852679,0 24.1612658315802,46.3619216919151,0 24.1612711712867,46.36193207029811,0 24.1612807508453,46.3620198042311,0 24.1613997637603,46.3621421549045,0 24.1616421645181,46.3622594683798,0 24.1617038887342,46.3622937270896,0 24.1617981313164,46.362346040548,0 24.1617992265449,46.362346669452,0 24.1620171886305,46.36247109234301,0 24.1620456433195,46.3624922578572,0 24.16209310602403,46.36252745501218,0 24.16218925982709,46.36262053972657,0 24.16222218805307,46.36265295520617,0 24.16227116901252,46.36271712209367,0 24.16229619707706,46.36274193895124,0 24.16232178404984,46.36277056316806,0 24.16233835210399,46.36279608080416,0 24.16235008683342,46.3628124410862,0 24.16235341665102,46.36283240915737,0 24.16239145912265,46.36288684816473,0 24.16243216861545,46.36301737217659,0 24.16249149337777,46.36320512153705,0 24.16251332953674,46.36330708423694,0 24.16255966426523,46.36341577742022,0 24.16262269703459,46.36351477811144,0 24.16271478925225,46.3636505280683,0 24.16281323860122,46.36375828985546,0 24.16286460164198,46.36381564103057,0 24.16292722313771,46.3638643137969,0 24.16298086734677,46.36391094559733,0 24.16305814353117,46.36395395006529,0 24.16312828832739,46.36400030894926,0 24.16317704751741,46.36402832296163,0 24.16322112436998,46.36405409151343,0 24.16326031734031,46.36407750740427,0 24.16339186505727,46.36415288565491,0 24.1636375380059,46.3642587106759,0 24.1632288054227,46.36443124608469,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Deag - Foisor</name>
+			<styleUrl>#stylemap_id1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_2025">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">5972</SimpleData>
+					<SimpleData name="PARCEL_NR">107</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">14.32</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">30.03.2023 20:12:18</SimpleData>
+					<SimpleData name="UPDATED">03.04.2024 09:36:40</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1568722731538,46.3594400002921,0 24.1568676144307,46.3594425927251,0 24.156857974003,46.3594533831147,0 24.1563073212648,46.3597642832485,0 24.1554204863339,46.36016424931731,0 24.1554204828411,46.3601642479141,0 24.1554042536357,46.36017157020969,0 24.1549647449224,46.36001535729519,0 24.1548494422091,46.35990652498881,0 24.1546323873357,46.3596529656559,0 24.1544150576787,46.3594174009843,0 24.1541736765988,46.3590556786517,0 24.1538674595283,46.3586844788915,0 24.153744152153,46.3582516381042,0 24.15381162198331,46.3580901617848,0 24.1541395520501,46.35789461242761,0 24.1546763728612,46.3576376120289,0 24.1553840616541,46.3572558877038,0 24.15592142297101,46.35696289121059,0 24.1567340207308,46.3565189406763,0 24.1580173159698,46.3558894711607,0 24.1595346245324,46.3552527039321,0 24.1598939401226,46.35555228923149,0 24.160153561238,46.35557218786071,0 24.160636292047,46.3554497419826,0 24.1608031641905,46.3555859416284,0 24.160723523587,46.3559719771663,0 24.1606931623595,46.3559810734596,0 24.1607127193883,46.35602434706381,0 24.1607049211261,46.3560621465819,0 24.1607254171483,46.35642223908421,0 24.16095782333709,46.35694542207442,0 24.16085836076057,46.35702943260857,0 24.16066880205029,46.35714123187201,0 24.16036182611621,46.35734617731815,0 24.16004804508575,46.35754154376155,0 24.15988927251125,46.35766443712001,0 24.15951183480989,46.35787106360126,0 24.15937147182366,46.35795840901336,0 24.15919281105492,46.35803787801932,0 24.15906896580218,46.35808933573621,0 24.15898782417455,46.35813925341129,0 24.1584995160419,46.3583496178053,0 24.1579520993692,46.3585965248262,0 24.1577177942406,46.3586895591584,0 24.1576795801275,46.35871944167909,0 24.1576750125633,46.3587215047977,0 24.1576517317783,46.3587412206291,0 24.1574071867916,46.3589324343911,0 24.1572107739162,46.3591020898429,0 24.1570027872657,46.35931784949021,0 24.1568722731538,46.3594400002921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id03</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202500">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">115076</SimpleData>
+					<SimpleData name="COMMUNE">ADAMUS</SimpleData>
+					<SimpleData name="BLOC_NR">1716</SimpleData>
+					<SimpleData name="PARCEL_NR">654</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">3.37</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3441, la nuc</SimpleData>
+					<SimpleData name="INSERTED">16.03.2016 10:37:07</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:27:57</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1795563350925,46.369391455357,0 24.1795563381122,46.3693914641025,0 24.1796338960324,46.3696386143678,0 24.1796348377356,46.36964099942559,0 24.1796967036945,46.3697243596211,0 24.1798652774973,46.3697525606328,0 24.1799569105851,46.3697622143044,0 24.1800341199441,46.3697627662711,0 24.1800813032712,46.36977531455239,0 24.1803234432632,46.3698008282595,0 24.1807467280871,46.3699217329512,0 24.1809735409207,46.37000405145659,0 24.1809872077021,46.3700072625307,0 24.1810384093402,46.3700275958332,0 24.181048903336,46.3699959689673,0 24.1810446286558,46.36999494860969,0 24.1822790229418,46.3674121805648,0 24.1823005744666,46.3674166085082,0 24.1823090723699,46.36739849206711,0 24.1823239606035,46.36736674342141,0 24.1826138658879,46.3667486762825,0 24.1822232823898,46.3666154135336,0 24.1820771607614,46.3665639798719,0 24.1820295531457,46.3666185313904,0 24.1820068082776,46.3666986810446,0 24.1818331197808,46.3669779713237,0 24.1817895849512,46.3670208537061,0 24.1817254682511,46.3670491915977,0 24.1815849875446,46.3671426738471,0 24.1815255873045,46.36720343997749,0 24.18128959280619,46.3675131047507,0 24.1812113667461,46.3675757790043,0 24.1811662189685,46.3676195404879,0 24.1808739157202,46.3678798594129,0 24.1808517641193,46.3678851633217,0 24.1808139186702,46.3678942155102,0 24.1807599385297,46.3679374638259,0 24.1807285975815,46.3679749617917,0 24.1807107209062,46.36797689476501,0 24.1806438541668,46.368102396487,0 24.1804183296312,46.3684067351131,0 24.1802309912789,46.3687653373538,0 24.1801378580397,46.3689086480856,0 24.1800196924493,46.3690742761005,0 24.1798414287021,46.36917288520679,0 24.1796640209566,46.36930119528689,0 24.17959607609,46.369334057862,0 24.179589437254,46.3693425049841,0 24.179583779079,46.3693496993268,0 24.1795588273713,46.36938142961999,0 24.1795532742559,46.369365039582,0 24.1795482880976,46.3693681444015,0 24.1795499329317,46.3693729073873,0 24.1795560387576,46.3693905881677,0 24.1795561759615,46.36939097608569,0 24.1795563350925,46.369391455357,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202514">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">115076</SimpleData>
+					<SimpleData name="COMMUNE">ADAMUS</SimpleData>
+					<SimpleData name="BLOC_NR">1716</SimpleData>
+					<SimpleData name="PARCEL_NR">653</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">1.15</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3441</SimpleData>
+					<SimpleData name="INSERTED">03.05.2013 07:55:45</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:28:08</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1820194987688,46.370001904842,0 24.1824862320234,46.3700862189901,0 24.1826434636614,46.36974089646279,0 24.1828038146778,46.3693605016898,0 24.1828311486719,46.36927071121019,0 24.1831367457245,46.3686510900692,0 24.1835865711565,46.3676851516898,0 24.1839153059524,46.3670818903494,0 24.1835138778033,46.3669782500032,0 24.182767024403,46.3685125787443,0 24.18207965135259,46.3698907521328,0 24.1820194987688,46.370001904842,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20256">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">358</SimpleData>
+					<SimpleData name="PARCEL_NR">278</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">10.81</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - Hagau, sub Cigasie</SimpleData>
+					<SimpleData name="INSERTED">19.04.2011 21:37:37</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:31:40</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2188911613763,46.40866559437331,0 24.218891077117,46.4086655703948,0 24.2188907432412,46.40866536989179,0 24.218890741309,46.408665369207,0 24.2188881873271,46.4086638400875,0 24.2188821766465,46.4086602267998,0 24.2188544705236,46.4086435890873,0 24.2187993808271,46.4086105048045,0 24.2186504028998,46.4085457186847,0 24.2184827144462,46.4084455941296,0 24.2183150266047,46.40834546932889,0 24.21827595072631,46.4083179019281,0 24.2182694419846,46.4083135234245,0 24.2182285318667,46.4082860039806,0 24.2182220506011,46.4082809013032,0 24.2182161315204,46.40827624564119,0 24.2181796993811,46.4082475624182,0 24.2181315220848,46.4082096297659,0 24.2181056517339,46.40818926103581,0 24.2180724477887,46.4081631823208,0 24.2179650077489,46.408097535544,0 24.2179422444656,46.4080919273614,0 24.2177600664695,46.4080484560042,0 24.2177422401877,46.4080442042053,0 24.2176550947393,46.4080234084955,0 24.2174916295085,46.4079844039126,0 24.2171852032683,46.40790501942481,0 24.2169537267976,46.40784505404281,0 24.2169335081516,46.4078398139623,0 24.2169333266909,46.4078397677319,0 24.2169333094926,46.4078397616362,0 24.2169333012335,46.4078397594965,0 24.2165499275985,46.40774844517009,0 24.216095261537,46.40762117076061,0 24.2160952569781,46.4076211697927,0 24.2160952481008,46.407621169732,0 24.2160669377265,46.4076168820413,0 24.2160447150405,46.4076135267788,0 24.2159814222034,46.4076039519451,0 24.215781273279,46.40759300991,0 24.2147591093178,46.4086631304697,0 24.2146144823328,46.4087701217015,0 24.2143563918373,46.40862438020979,0 24.2149776511727,46.4080266378063,0 24.2154478790171,46.4074973452717,0 24.2154254565093,46.407492503783,0 24.2154138626367,46.40749000393431,0 24.2153871085802,46.4074842329787,0 24.2153770320558,46.4074820584463,0 24.2153765263171,46.407481947007,0 24.2153740752812,46.4074814173371,0 24.2151036100988,46.40739445152751,0 24.215103607563,46.40739445062861,0 24.2151034938487,46.4073944246738,0 24.2142622219708,46.40704452237189,0 24.2139522946634,46.40690735247111,0 24.21378744232191,46.4068266809783,0 24.2137355993911,46.406801313076,0 24.2135923539803,46.4067312145378,0 24.2134158012194,46.4066570271757,0 24.2132948332729,46.4066264220846,0 24.213292545375,46.4066317604612,0 24.2132888175107,46.406640454376,0 24.2132876839848,46.406643089475,0 24.213286800633,46.40664515060801,0 24.2132280917884,46.4066809788517,0 24.2131567081,46.40674345885671,0 24.2131161902206,46.4067789262381,0 24.2130279139543,46.4068561932022,0 24.2129742633537,46.4068955082835,0 24.2129655930434,46.4069018585593,0 24.2129063611903,46.40694526457391,0 24.2125829870332,46.4071751912786,0 24.2125416171734,46.4072027098815,0 24.2124872356825,46.40723888507409,0 24.2124734452426,46.40724805880479,0 24.2122754929385,46.40737973274351,0 24.2120498088806,46.4075365554733,0 24.212035128403,46.4075467554532,0 24.2119581924177,46.4076002164939,0 24.2117418465042,46.407742196856,0 24.2117417684834,46.4077422485335,0 24.2117417672567,46.4077422493654,0 24.2117414125725,46.4077424898863,0 24.2117397840403,46.4077435675082,0 24.2117283447741,46.407751146583,0 24.2117140031226,46.4077606403788,0 24.211576416746,46.4078517759709,0 24.2125535130154,46.4082520854093,0 24.2135101317708,46.4086725735156,0 24.2137950083541,46.4087645099281,0 24.2148035474051,46.409194341274,0 24.2162001505525,46.4097797880875,0 24.21693735850801,46.4100817689718,0 24.2173381645639,46.4102554732973,0 24.2176874542985,46.4103928313467,0 24.2180552641653,46.41014338272679,0 24.2184490862911,46.4098941100967,0 24.2196166283704,46.4092091782991,0 24.2198653077404,46.4091028882695,0 24.2193428494537,46.40887204407189,0 24.2192325260636,46.4088259954353,0 24.2191110553703,46.40877529963591,0 24.2190509707051,46.40874308132549,0 24.2190379397447,46.4087373236363,0 24.2190064171781,46.4087191932448,0 24.218932144256,46.4086793646245,0 24.2189237524766,46.4086748712833,0 24.2189179480232,46.40867322105619,0 24.2188958964092,46.4086669430279,0 24.2188930719083,46.4086661409388,0 24.21889151715139,46.4086656984313,0 24.2188914523698,46.4086656799935,0 24.2188911613763,46.40866559437331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20254">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">1551</SimpleData>
+					<SimpleData name="PARCEL_NR">332</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">10.68</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - Sub Cigasie, Hagau, sola catre Deag</SimpleData>
+					<SimpleData name="INSERTED">19.04.2012 19:23:37</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:31:34</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2130548215699,46.4067714171162,0 24.2131175094459,46.4067170562755,0 24.2131421773363,46.4066956620547,0 24.2131441662835,46.40669393899771,0 24.2132254011727,46.4066268998634,0 24.213049157878,46.4065208786433,0 24.2130220356966,46.4065066999984,0 24.2124920938986,46.40612473436191,0 24.2120768516293,46.4057754083216,0 24.2120768447559,46.4057754028344,0 24.2120768383228,46.40577539829501,0 24.212076786812,46.4057753619476,0 24.2120766325379,46.40577523491019,0 24.2120754364615,46.4057742818622,0 24.212072517098,46.4057719492197,0 24.2120569169865,46.4057594962535,0 24.2120465768829,46.4057512456776,0 24.2118611897018,46.4056032441073,0 24.2118055672647,46.4055588417332,0 24.2117480673739,46.4055129326949,0 24.2117365570536,46.4055037472132,0 24.2117304482137,46.405498873091,0 24.2117301577099,46.4054986338717,0 24.2117296513954,46.4054982296653,0 24.211729651972,46.4054982295239,0 24.2117296509666,46.4054982287256,0 24.2119665154969,46.4054401241321,0 24.2121742088616,46.405409686898,0 24.2122214592388,46.4053975304873,0 24.21236040309,46.4053617887382,0 24.2123735316367,46.4053584146077,0 24.2124434434933,46.40534043053471,0 24.212449681103,46.4053388256559,0 24.2123480108168,46.4052680840275,0 24.2123352859201,46.4052592322084,0 24.2122968794579,46.4052325131797,0 24.2122468687737,46.4051977148689,0 24.21223041780449,46.4051862668202,0 24.2121750358751,46.40514773409819,0 24.212097834294,46.4050652656858,0 24.212097761086,46.4050651880633,0 24.2120030837905,46.4049640614525,0 24.2118416753135,46.4048213265931,0 24.2118381558078,46.4048182159567,0 24.2117983111583,46.4047829833616,0 24.2117721954276,46.4047598850908,0 24.2117402623788,46.4047316476144,0 24.2117005921923,46.4046936839433,0 24.2116673181396,46.4046618464429,0 24.2116332504303,46.4046292450261,0 24.2116216251453,46.40461811507951,0 24.2115660074254,46.404572560808,0 24.2115416827988,46.4045526331108,0 24.2115412752247,46.4045522984242,0 24.2114663307899,46.40449091054739,0 24.2114662799581,46.4044908351784,0 24.2113215498119,46.40433179250589,0 24.2112555220862,46.4042657130921,0 24.2112509955601,46.4042611737625,0 24.2111838653489,46.4041939799202,0 24.2110711513285,46.4040556099802,0 24.2110700776646,46.404054288827,0 24.2110564404421,46.4040375497307,0 24.2110564394226,46.4040375488926,0 24.2107525678322,46.4041850040692,0 24.2107510363429,46.40418578500601,0 24.2107509163074,46.4041858466235,0 24.2107504838621,46.4041860686098,0 24.2107476141152,46.4041875336115,0 24.210732361339,46.4041953113207,0 24.2107082242368,46.40420761711469,0 24.210589634989,46.4042680896171,0 24.2103750468221,46.40437750975289,0 24.210346244577,46.4043921949462,0 24.2102406535142,46.40444785239531,0 24.2101670947947,46.40447266559629,0 24.2100586671475,46.4045198388315,0 24.2095326282661,46.4047685771413,0 24.2091478692098,46.40494467071811,0 24.2091462616976,46.40494539392201,0 24.2091457869941,46.4049456092636,0 24.2091455905991,46.4049456978943,0 24.2091448050191,46.404946052417,0 24.2091389918564,46.4049486668874,0 24.2091079882263,46.4049626167229,0 24.2089846675658,46.40501809682059,0 24.2089846282867,46.40501811454669,0 24.20889824215631,46.4050569771065,0 24.20889003294119,46.4050606728532,0 24.208874504922,46.4050676565561,0 24.2088718994899,46.40506882638519,0 24.2088717161006,46.4050689151051,0 24.2088708782313,46.4050692872623,0 24.208870865095,46.4050692961701,0 24.208870759905,46.40506933884971,0 24.2088707346796,46.4050693501982,0 24.2086714111971,46.4051489886088,0 24.2081452268919,46.40533809423231,0 24.2081397521104,46.4053400638946,0 24.208029276186,46.4053823859199,0 24.20791233664159,46.405428208602,0 24.2078237717954,46.4054629070379,0 24.2078235101032,46.4054630132124,0 24.2078203443023,46.40546425113631,0 24.2078079295232,46.4054691145621,0 24.2078076809674,46.4054692118289,0 24.2078061242099,46.4054698219727,0 24.2078048052859,46.40547033839351,0 24.2077974774736,46.4054732096108,0 24.207797473124,46.40547321132981,0 24.2077974507718,46.4054732264866,0 24.2077973330621,46.4054732706661,0 24.2077968620939,46.4054734563815,0 24.2077959463005,46.4054738189944,0 24.2077914458934,46.4054755966076,0 24.2077751318666,46.4054820438279,0 24.2077582160211,46.4054887298483,0 24.2074987561657,46.40559429840691,0 24.2074814278253,46.4056133363825,0 24.2074779779976,46.4056171278896,0 24.2075429499913,46.4056714322291,0 24.2075433979352,46.4056710393918,0 24.2076306845964,46.40574478142529,0 24.2080960712438,46.4061337748812,0 24.2081250306132,46.4061624187725,0 24.2083273411498,46.40633333617161,0 24.2090926485187,46.4070616014121,0 24.20928990404621,46.4072398159286,0 24.2095901394969,46.40752893421411,0 24.2106648538655,46.40841907749699,0 24.2110225356043,46.4081777881254,0 24.2110498585765,46.40815934925411,0 24.2113164978369,46.4079727372668,0 24.2118987458181,46.40757610093151,0 24.2122249658469,46.40734815233861,0 24.21269788852,46.40703154017929,0 24.2128294563527,46.4069434574095,0 24.2129414980774,46.4068680903075,0 24.2130007624007,46.4068182945858,0 24.2130294907253,46.406793377017,0 24.2130548215699,46.4067714171162,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_2024">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2024</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">5972</SimpleData>
+					<SimpleData name="PARCEL_NR">110</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">10.22</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3505</SimpleData>
+					<SimpleData name="INSERTED">13.03.2013 17:43:38</SimpleData>
+					<SimpleData name="UPDATED">19.04.2024 10:56:09</SimpleData>
+					<SimpleData name="STATUS">2</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1662222053713,46.36557544252129,0 24.1662561040625,46.36566639422009,0 24.1662561680932,46.36566645767541,0 24.1662856686257,46.3656960163506,0 24.166310316253,46.3657207255256,0 24.166321955095,46.3657323912433,0 24.1663221088782,46.3657325363377,0 24.166326487743,46.365736932457,0 24.1663322751513,46.3657427335876,0 24.1663391636739,46.365749640543,0 24.1663439799746,46.3657586200976,0 24.1663487962768,46.3657675996521,0 24.1663545604905,46.3657783588082,0 24.1663791724991,46.3658242772662,0 24.1663927740991,46.36584966201699,0 24.1664070330114,46.3658762753445,0 24.1664306671289,46.3659078250145,0 24.1664437263937,46.3659252601071,0 24.1664744061481,46.36596621945139,0 24.1664828277545,46.365977465836,0 24.16648989894,46.3659869026986,0 24.1664968427473,46.3659961676629,0 24.1665005374655,46.3660011077144,0 24.1665009835022,46.36600169586071,0 24.1665014803,46.3660023653628,0 24.1665020279956,46.36600310722301,0 24.1666585991822,46.3661599016229,0 24.16672960020299,46.36623009314229,0 24.1667302406584,46.3662307186942,0 24.1667731821509,46.366273161807,0 24.166880145343,46.3663788977389,0 24.166952142338,46.3664726095281,0 24.1669692493974,46.3664948701768,0 24.1669792305516,46.3665078645672,0 24.1669831822956,46.3665130044368,0 24.1669925515801,46.3665252025109,0 24.1669956747213,46.3665292655362,0 24.1670016914151,46.366537101966,0 24.1670077081106,46.36654493839559,0 24.1670081155739,46.3665454992641,0 24.1670082300962,46.36654566206939,0 24.1670085737996,46.366546141488,0 24.1670087137714,46.3665463404724,0 24.1670087264961,46.3665463585619,0 24.1670093248299,46.3665471907727,0 24.16701073768141,46.3665491717131,0 24.1670129015634,46.3665522019381,0 24.167017000147,46.3665579457749,0 24.1670297542656,46.3665758105106,0 24.1670481725331,46.3666016170941,0 24.1671218460482,46.3667048254029,0 24.1671405825216,46.366731084208,0 24.1671699603157,46.3667739595879,0 24.1672121828767,46.3668355911868,0 24.1672486189902,46.36688877612449,0 24.1672486571647,46.3668888303929,0 24.16725492697899,46.3668979824326,0 24.1672565548079,46.3669003608662,0 24.1672597977411,46.3669050996438,0 24.1672847117382,46.3669414636374,0 24.1672847244631,46.3669414817269,0 24.1672847501855,46.3669414999107,0 24.1672848398049,46.3669415905467,0 24.1672849294244,46.36694168118269,0 24.1672855693492,46.3669423427217,0 24.1672866572349,46.3669434664382,0 24.1672875914679,46.3669444360642,0 24.1672882313927,46.36694509760321,0 24.1672930053115,46.3669500274653,0 24.1673172715714,46.3669750935856,0 24.1675175711984,46.3671820111011,0 24.1678152612177,46.3674928120959,0 24.167907079652,46.3675739881234,0 24.1679454705636,46.3675590860963,0 24.1679481511555,46.3675580437147,0 24.167969164105,46.3675498904965,0 24.1680042336948,46.36753627814309,0 24.1680312088721,46.3675284111219,0 24.1680315483091,46.3675283146001,0 24.1680377241168,46.3675265146961,0 24.1680535096381,46.3675219139612,0 24.1681210517852,46.3675022291261,0 24.1681433653664,46.36746482207381,0 24.1681461396842,46.3674601629562,0 24.1681521148641,46.36745014592871,0 24.1681544088742,46.3674463021943,0 24.1681552225638,46.3674449313196,0 24.1681572095939,46.3674416162723,0 24.1682242419664,46.367392043545,0 24.1684496612602,46.3672724227531,0 24.1685421615579,46.3672054423385,0 24.1687072022368,46.36713890662709,0 24.1687180503537,46.3671332891764,0 24.1687182599475,46.3671331827129,0 24.1687244439189,46.3671299790598,0 24.1687253197901,46.3671296524618,0 24.1687259733421,46.3671294142379,0 24.1687294504234,46.3671281346501,0 24.1687424174803,46.36712336941749,0 24.1687464173207,46.3671219046486,0 24.1687467048998,46.3671217987503,0 24.1687679854786,46.36711398027139,0 24.1687763773962,46.36711090059891,0 24.1687796191586,46.36710970928959,0 24.1687820113176,46.3671088267719,0 24.1688951196632,46.3670672813,0 24.1689313671397,46.3670539651517,0 24.1689369486512,46.3670519179329,0 24.1689463340766,46.3670484675081,0 24.1689651440525,46.3670415579411,0 24.1689895485287,46.3670326012438,0 24.1693289174712,46.3668955012286,0 24.1694345160583,46.36685624045811,0 24.1695079696046,46.366828930862,0 24.1695126756179,46.3668271832264,0 24.1695437224642,46.3668156379349,0 24.1696074369127,46.3667919561589,0 24.1697178194961,46.3667509210575,0 24.1696953823119,46.36672345708079,0 24.1698144632918,46.36665988953119,0 24.1698377549148,46.3666299220172,0 24.170020534291,46.3665772535708,0 24.1702561179346,46.36647097562479,0 24.1702733790924,46.36646417162039,0 24.170273471025,46.3664641092956,0 24.1702735499601,46.3664640468769,0 24.1702739967614,46.3664637261618,0 24.1702741413627,46.3664636192254,0 24.1702746142946,46.3664632897008,0 24.1702756523626,46.36646255033159,0 24.1702756917623,46.3664625236211,0 24.1702816048366,46.3664583100884,0 24.1702842985053,46.366456394889,0 24.1702927081122,46.3664504087067,0 24.170310840343,46.3664410104211,0 24.1703909413125,46.3663995216608,0 24.1704294065074,46.3663795981586,0 24.1704302318608,46.36637917219829,0 24.1704330224382,46.3663777256201,0 24.1704334940105,46.3663774860703,0 24.1704430841396,46.3663725162513,0 24.1702817553313,46.3662382249879,0 24.1702809104887,46.36621583051859,0 24.17026046425431,46.3661830539183,0 24.1702784472522,46.3661499524135,0 24.1702784180391,46.36614930430759,0 24.1702783617861,46.3661478641348,0 24.1702783527275,46.3661476031117,0 24.1702782782215,46.36614564989039,0 24.1702782419871,46.36614460579811,0 24.1702780927035,46.3661407173505,0 24.1702780196915,46.3661386651561,0 24.1702779729046,46.3661374590138,0 24.1702772681538,46.36611870096601,0 24.1702771205002,46.3661147045478,0 24.1702770098957,46.36611169823659,0 24.17029127308,46.3661037117308,0 24.17029797216,46.36609995380981,0 24.1703049463558,46.366096053902,0 24.170306008238,46.36609545868139,0 24.1703088398333,46.3660938774248,0 24.1703139475474,46.3660844569106,0 24.1711900485872,46.36572156302849,0 24.1712195114604,46.3657158638858,0 24.1712259842733,46.3657184842381,0 24.1713871866642,46.3656887569517,0 24.171487707065,46.3656524091281,0 24.1714951316164,46.3656513919328,0 24.1715784945558,46.3656399990151,0 24.1716487799231,46.365630392285,0 24.1716488059175,46.3656303924727,0 24.1717674027058,46.3656141786979,0 24.1717847297279,46.36561505069359,0 24.1717993633057,46.3655030885861,0 24.1715175751008,46.3652256982886,0 24.1714614535124,46.3651856273439,0 24.171432227507,46.3652153003632,0 24.1712866618238,46.36506840941101,0 24.1712784931311,46.36506016172049,0 24.1712734612456,46.3650550861823,0 24.1712646906475,46.3650462402383,0 24.171260926483,46.3650424336547,0 24.1711382033342,46.3649548009509,0 24.1709779858683,46.3648797110308,0 24.1709459789509,46.3648670976934,0 24.1709143080709,46.36485461275549,0 24.1708845764256,46.3648359328356,0 24.1708671517786,46.3648277621822,0 24.170861965513,46.3648217226658,0 24.1707760544408,46.3647677312533,0 24.1707764997776,46.3647382102671,0 24.1708618203181,46.3647244924054,0 24.1709121318754,46.3646895098343,0 24.1708022444056,46.36456363576429,0 24.1706988729202,46.3643505228628,0 24.1705563315037,46.3642352106846,0 24.1696992375232,46.36343657971629,0 24.1696286638953,46.3634735238979,0 24.1679883953518,46.36436101660129,0 24.1679085123983,46.3644113003381,0 24.1676462580119,46.36456237265499,0 24.1673949639611,46.3646820889302,0 24.1665745355774,46.3651259652536,0 24.1660898998085,46.3653967415013,0 24.1660980568857,46.3653988524745,0 24.1661032489473,46.3654001950113,0 24.166063719757,46.36542935983421,0 24.1662222053713,46.36557544252129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1694099554863,46.3639722560409,0 24.1694503053877,46.3638825628212,0 24.1696330759773,46.3638298949294,0 24.1698278918002,46.36384030372129,0 24.1697746816344,46.3639209054429,0 24.1695139299932,46.36397300894339,0 24.1694099554863,46.3639722560409,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20253">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">5972</SimpleData>
+					<SimpleData name="PARCEL_NR">708</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">54.59</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">09.03.2022 12:37:13</SimpleData>
+					<SimpleData name="UPDATED">29.04.2024 16:33:19</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1758085274433,46.3592970499015,0 24.17580516357,46.3592942901697,0 24.1755667386142,46.359105730706,0 24.1752596214076,46.35886289246271,0 24.1750126991331,46.3586969200561,0 24.1744054609461,46.3582905492644,0 24.1742022203437,46.3581491945914,0 24.1719970688468,46.3596266680023,0 24.1717677767784,46.3595090301182,0 24.1715580592334,46.3594345282313,0 24.1712999074795,46.35931568209559,0 24.1713258335061,46.35930210164101,0 24.1722707302596,46.35880709380389,0 24.17241151647769,46.3587387129679,0 24.1737394242052,46.35784852226621,0 24.1731216004153,46.3574481332861,0 24.1726396040132,46.3571148422181,0 24.1724825991593,46.3570245608059,0 24.1723235847793,46.3569331218563,0 24.1716757313446,46.3564483447141,0 24.1713594192078,46.3562296084644,0 24.1707938819091,46.3558115873163,0 24.1700601000519,46.35534735311331,0 24.1692992537571,46.3549549065653,0 24.1684339173324,46.3545976915406,0 24.1674776306242,46.3542398097205,0 24.1674285789022,46.3542204036751,0 24.1673895535508,46.3542065775209,0 24.1672053617665,46.3541379668843,0 24.1667518213583,46.3547105625647,0 24.1664452346934,46.35513126704689,0 24.1658043469256,46.3550573182488,0 24.1652431467851,46.3549607929187,0 24.1652410837267,46.3549638730961,0 24.1652228978942,46.3549573067535,0 24.1651925273337,46.3549520824863,0 24.1648948798583,46.3548689284269,0 24.1646609761663,46.35486722497,0 24.163893471032,46.35491562346891,0 24.1635022624319,46.3550027563562,0 24.1628880879268,46.3552232391123,0 24.1623001722425,46.3554259132658,0 24.1622211984387,46.3554384293006,0 24.1621538649504,46.3554614596559,0 24.1620793008854,46.3554609148989,0 24.1619744800495,46.3554775252334,0 24.1615591957361,46.35543849568959,0 24.1609753919757,46.3553712362073,0 24.1608837420804,46.3554155584959,0 24.160906710724,46.35561369495831,0 24.1614244116419,46.3566306116749,0 24.1614453484582,46.356658768283,0 24.1614376733993,46.3566566784905,0 24.1614492952125,46.3566794938316,0 24.1619809959611,46.3567553686816,0 24.1626162479419,46.3568589928596,0 24.1631217440197,46.3573588181662,0 24.1633002873001,46.3575145811149,0 24.1634014003391,46.3576114520095,0 24.1637589762058,46.35776408936919,0 24.1639368221188,46.3577909795828,0 24.1641964364047,46.3578993157716,0 24.1643583866943,46.3579696227971,0 24.1644541909337,46.3580112192427,0 24.1652539509892,46.3583698763383,0 24.1654121506335,46.358463118872,0 24.1656036961237,46.3585267105884,0 24.1656110671307,46.358530021691,0 24.1657866992393,46.3586188192578,0 24.1659676813067,46.3586831253979,0 24.1660706903808,46.3587468643212,0 24.1661102963955,46.3587748678433,0 24.1684973922656,46.35985330834231,0 24.169433381929,46.3602615058887,0 24.1694335279323,46.3602614267416,0 24.1697318259827,46.3603916628925,0 24.1705007238142,46.3607156580705,0 24.1705008012474,46.3607156946247,0 24.1705011112518,46.3607158228465,0 24.1706051125194,46.3607626385409,0 24.1707267617805,46.3608173924824,0 24.1718092482578,46.3613046027346,0 24.1722546625078,46.3615092236118,0 24.1729322279014,46.3618437012963,0 24.1733255028494,46.3620388624331,0 24.1733848415364,46.3620671316028,0 24.1746897663833,46.3627112770708,0 24.17448247507719,46.3628930585453,0 24.1744932028301,46.3628988228355,0 24.1744036848643,46.3629464826655,0 24.1743612672662,46.3629260565909,0 24.1743518336726,46.36293711087789,0 24.1773001995712,46.3642680433239,0 24.1778714204289,46.36448460359841,0 24.1779425493396,46.3644566600512,0 24.1778970206757,46.36402440403,0 24.177844147935,46.36321415674269,0 24.1778106755436,46.3628449767469,0 24.1777509414599,46.362493605518,0 24.1774619848999,46.3618256416541,0 24.1771487937653,46.36104052201689,0 24.1765763662881,46.3602085477435,0 24.1763092483586,46.3598196922317,0 24.17614326871711,46.3596205320688,0 24.1759638899296,46.3594482710214,0 24.1758337688251,46.3593177929684,0 24.1758085274433,46.3592970499015,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20242">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2024</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">317</SimpleData>
+					<SimpleData name="PARCEL_NR">13</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">3017</SimpleData>
+					<SimpleData name="CROP_NAME">SFECLÄ‚ DE ZAHÄ‚R</SimpleData>
+					<SimpleData name="AREA_DEC">2.62</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3042, Coman Maria</SimpleData>
+					<SimpleData name="INSERTED">03.04.2012 21:05:08</SimpleData>
+					<SimpleData name="UPDATED">07.03.2024 10:39:06</SimpleData>
+					<SimpleData name="STATUS">2</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2006162643348,46.41062760240121,0 24.2006217498955,46.4106353505826,0 24.2006404054779,46.4106864719991,0 24.2006553704794,46.4107068775852,0 24.200655466155,46.41070700609401,0 24.2006674824038,46.4107233859435,0 24.2006679160283,46.41072398286,0 24.200689869252,46.4107539115648,0 24.2010094589172,46.411175580764,0 24.2011047972636,46.4112529740988,0 24.2011140211403,46.4112574295453,0 24.2011558383109,46.41127765217129,0 24.2011623620963,46.411280811041,0 24.2011631243366,46.4112811762842,0 24.2011635118299,46.4112813679486,0 24.2011635505924,46.4112813862153,0 24.2011635785145,46.4112814010064,0 24.2011636062266,46.41128141440781,0 24.201302884884,46.4113106200593,0 24.2013028913741,46.4113106199173,0 24.2013030805864,46.4113106125143,0 24.2013031456269,46.4113106129669,0 24.2013033929116,46.4113106056897,0 24.2013128016913,46.4113104012244,0 24.2014030376489,46.4113084287053,0 24.2015190747169,46.4112892237062,0 24.2016182587102,46.4112650511859,0 24.2016973283346,46.41123473670159,0 24.2017401680281,46.4112311744001,0 24.2017404553832,46.4112310954133,0 24.2017416963836,46.4112307441094,0 24.2017418008407,46.4112307178408,0 24.2018869131649,46.41120169948431,0 24.2021045216026,46.4111631788104,0 24.2024752700291,46.41108656103081,0 24.2024827999819,46.4110849396579,0 24.2025858968699,46.4110537477334,0 24.2018228052796,46.4099416362942,0 24.201074509805,46.4088518485059,0 24.2007039953227,46.4090232078223,0 24.201009482071,46.4094138873976,0 24.2005325457387,46.4096034017867,0 24.20019102653781,46.4097395976369,0 24.1998818469542,46.4098525320822,0 24.200067043497,46.4100454267444,0 24.2002657947516,46.41024293277241,0 24.200476147613,46.4104576882707,0 24.2004796598875,46.4104612761186,0 24.2005745590553,46.4105686945956,0 24.2005747886123,46.4105690111397,0 24.2006085172764,46.4106166588077,0 24.2006135651818,46.4106237847313,0 24.2006162643348,46.41062760240121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20244">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2024</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">4731</SimpleData>
+					<SimpleData name="PARCEL_NR">104</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">3.62</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">05.04.2019 12:36:34</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 10:05:39</SimpleData>
+					<SimpleData name="STATUS">2</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1666782334245,46.3734557922155,0 24.1666617044022,46.3737742198508,0 24.1666050325553,46.374258738485,0 24.1665955025966,46.3743676413431,0 24.166592276766,46.374367736934,0 24.166467725232,46.3754326466533,0 24.1685580141988,46.3754909564169,0 24.1688709762287,46.3754996795249,0 24.1689092998911,46.3755007490637,0 24.1690774874034,46.3755054409212,0 24.1690928960694,46.3754880774153,0 24.1692041911426,46.3750920488969,0 24.1692822051624,46.3748334565643,0 24.1692563424173,46.3748242707444,0 24.1693301625067,46.374499058948,0 24.1683129039304,46.37445292222299,0 24.1683128320524,46.37445423548581,0 24.1680027311475,46.3744418723486,0 24.1680029327729,46.37443885930671,0 24.1679842115655,46.3744380126337,0 24.1680196770945,46.37321177135579,0 24.1672696718713,46.3733755012588,0 24.1669310014722,46.3734189345977,0 24.1667966475448,46.373448553739,0 24.1666782334245,46.3734557922155,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sibian dreapta 02</name>
+			<styleUrl>#stylemap_id0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20252">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2001</SimpleData>
+					<SimpleData name="PARCEL_NR">717</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">3.70</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">30.05.2016 15:07:24</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:30:08</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.15947850184744,46.37373428392963,0 24.15906018328415,46.37403370815808,0 24.15858382583147,46.37408973386892,0 24.15837644537682,46.37414371821723,0 24.15815946186992,46.37422741277583,0 24.15781487744682,46.3743270793731,0 24.15757769705933,46.37433928374829,0 24.1572686935104,46.3742050140044,0 24.1570495012535,46.3740864225698,0 24.1566508073175,46.37380453759779,0 24.15747970398484,46.3734106297746,0 24.15728104190851,46.3732167115273,0 24.15675667435933,46.37260223257975,0 24.15674200193333,46.37252674554437,0 24.15685374697048,46.37247477281592,0 24.15711846399602,46.3723427443758,0 24.15725150517699,46.37230365624377,0 24.15867547230148,46.3716664308033,0 24.1587606205612,46.3717287176349,0 24.158853310319,46.3718060648727,0 24.1591086495535,46.37198845656929,0 24.1592231258094,46.3720702285162,0 24.1593270676445,46.3721387042981,0 24.1595609246187,46.3722927811151,0 24.15982966060553,46.37247318108377,0 24.15992617135393,46.37253320867457,0 24.16117581940069,46.37297801851282,0 24.15947850184744,46.37373428392963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SIbian dreapta 01</name>
+			<styleUrl>#stylemap_id20</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20251">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">4731</SimpleData>
+					<SimpleData name="PARCEL_NR">105</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">1.41</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 3302/2/18</SimpleData>
+					<SimpleData name="INSERTED">30.03.2016 08:39:03</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 10:05:47</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.16528430855206,46.37556193074261,0 24.1652814683062,46.37553190022702,0 24.16527504334338,46.3754895728557,0 24.16527505989975,46.37545008281647,0 24.1652850458516,46.3753938425894,0 24.165298629799,46.3751842759097,0 24.165311187024,46.3749567047054,0 24.1653414085728,46.3746788703004,0 24.1653491210825,46.37442786765661,0 24.1653753519405,46.3744127610302,0 24.1655339430619,46.3744139148446,0 24.1657317095822,46.37440365529,0 24.1659099088463,46.3743977523753,0 24.1660908308083,46.3743837703079,0 24.1663898549061,46.3743832442247,0 24.1665419463394,46.3743843494107,0 24.1665374188393,46.3744257097131,0 24.1665264907434,46.3745462104954,0 24.1665130890582,46.3747440805798,0 24.1664950333903,46.3749059227549,0 24.1664761553263,46.3750362641251,0 24.1664436635622,46.37520699990199,0 24.1663877724877,46.3753775656188,0 24.1663437002623,46.37545463259671,0 24.1662603835777,46.37554761165781,0 24.1662204839385,46.37560671187559,0 24.1661594845406,46.3756854554454,0 24.16611266163819,46.3757724007069,0 24.1660974609333,46.3758316804279,0 24.1660877058163,46.3758748024009,0 24.1661226574892,46.37597044078381,0 24.1661283927225,46.3760208741791,0 24.1661037098899,46.376105280819,0 24.1660643012344,46.376131989881,0 24.1660197746525,46.3761421224439,0 24.1659395721137,46.3761334676444,0 24.1657317961446,46.37612980578898,0 24.16524155255392,46.37610589667027,0 24.16525533806715,46.37578183358831,0 24.16527641022301,46.37562924328081,0 24.1652815487377,46.37558726732551,0 24.16528430855206,46.37556193074261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Deag - Sibian stanga, defrisat</name>
+			<styleUrl>#stylemap_id3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO002357778_20252">
+					<SimpleData name="FARM_ID">RO002357778</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">2001</SimpleData>
+					<SimpleData name="PARCEL_NR">81</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">101</SimpleData>
+					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="AREA_DEC">4.92</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">DEAG 3298/2, 3298/3, 3298/4</SimpleData>
+					<SimpleData name="INSERTED">08.04.2022 12:12:21</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 10:05:31</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.1628298810446,46.37284423162969,0 24.16269030251734,46.37317652023502,0 24.1617922079993,46.3729376820923,0 24.1617896703674,46.3729369976576,0 24.1617710518995,46.3729320113959,0 24.1614963116651,46.37281532824437,0 24.16128331919336,46.3727070417704,0 24.16099118624109,46.37249364164289,0 24.1606941921082,46.37208847963731,0 24.1605841451462,46.3720468120367,0 24.16051743699,46.3720087999729,0 24.1603505022721,46.3720045366155,0 24.1600717666935,46.3719849397764,0 24.1608818586988,46.3708660524099,0 24.1610371530215,46.370912181027,0 24.1615489519559,46.37097408574527,0 24.1632452435919,46.3710362924985,0 24.163152376111,46.371397175948,0 24.16311241579136,46.37172981749652,0 24.16299140986204,46.37225050397304,0 24.1628298810446,46.37284423162969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20255">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">765</SimpleData>
+					<SimpleData name="PARCEL_NR">535</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">1.00</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - 2983/27</SimpleData>
+					<SimpleData name="INSERTED">13.06.2015 10:58:27</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:33:21</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2091200448452,46.4009906077872,0 24.2091253283686,46.40099432819801,0 24.209127969149,46.40099696647461,0 24.2091280575821,46.4009970547831,0 24.2091366230484,46.4010056083494,0 24.2091807837043,46.401049726128,0 24.2091965760759,46.40107307794119,0 24.2092023010203,46.4010815537938,0 24.2092035708759,46.4010834317444,0 24.2092358461461,46.4011319619634,0 24.2092409243214,46.4011357450777,0 24.2092456222079,46.4011392395467,0 24.2092546562091,46.40114596964959,0 24.2092703949302,46.40115769509931,0 24.2094444173242,46.401283162687,0 24.2095095065857,46.40133009251709,0 24.2095372321816,46.4013500817825,0 24.2096248671734,46.401422945097,0 24.209624868069,46.4014229458081,0 24.2098219592651,46.4015534488679,0 24.209825692308,46.4015552562668,0 24.20983807968661,46.4015612625461,0 24.2098402497736,46.4015623123108,0 24.2098482195931,46.4015661735342,0 24.2098547039732,46.40156931365109,0 24.209859908892,46.4015718408715,0 24.2098646152533,46.40157412146269,0 24.2107492621106,46.4010085509117,0 24.2107827644693,46.40092779385161,0 24.2107873051613,46.4008629649094,0 24.2107738803781,46.40083415054661,0 24.2108268080298,46.4007715255258,0 24.2109831340429,46.4007546037542,0 24.2109705162562,46.40072752166969,0 24.2109318872718,46.4007002607049,0 24.2108149661316,46.4006904581282,0 24.2107247028189,46.4006358466174,0 24.2106344396859,46.4005812350355,0 24.2105965869973,46.4004999886611,0 24.2105325939975,46.4004275608536,0 24.2104291965068,46.4003818571722,0 24.2103007151098,46.40042638703831,0 24.2102932936333,46.40043665204301,0 24.2102750197614,46.4004619350314,0 24.210271489768,46.40046681488451,0 24.2101456890944,46.4005137396584,0 24.21012235970329,46.40052244252029,0 24.2100959902233,46.4005322744822,0 24.2100842796594,46.4005366426425,0 24.2100769293285,46.4005378454076,0 24.2100640973467,46.4005399483124,0 24.2100147111179,46.4005480308331,0 24.2099664070551,46.4005559318167,0 24.2099190155691,46.4005636860904,0 24.2098482488295,46.4005073904502,0 24.2090954975653,46.40095847000241,0 24.2091200448452,46.4009906077872,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202513">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">765</SimpleData>
+					<SimpleData name="PARCEL_NR">729</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">2.29</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">22.04.2023 12:24:26</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:33:12</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2061892675623,46.39856191134119,0 24.2062694261745,46.3986149898266,0 24.2067666445794,46.3989700067024,0 24.2068414171477,46.39902956241621,0 24.207111390491,46.3992729736288,0 24.2073589777086,46.3994544912146,0 24.2075409309203,46.3996191687899,0 24.2077941715545,46.3998859577036,0 24.2080083418042,46.40006529944781,0 24.2080349233216,46.4000755161896,0 24.2080866061133,46.40012283578011,0 24.2081582738016,46.40011378305721,0 24.2085554289711,46.3998516329199,0 24.2090784028357,46.3995064252092,0 24.209069016119,46.39949631077981,0 24.2090526127934,46.39948651537959,0 24.2089861869789,46.399439634485,0 24.2089558770995,46.3993929935564,0 24.2088948204008,46.39933186009681,0 24.2088886052799,46.3993019244165,0 24.2088199685569,46.3992279698597,0 24.2087972980527,46.399197281813,0 24.2087679427762,46.3991809991628,0 24.2086966118411,46.3991162223586,0 24.2087003518148,46.3990660818298,0 24.2086796333835,46.3990380347665,0 24.208345778179,46.3987387830777,0 24.2083401802293,46.3987382405401,0 24.2082255455774,46.3987695379766,0 24.2081250905871,46.3987420113491,0 24.2080805329736,46.398712980782,0 24.2080470493506,46.3987097261927,0 24.2071470822881,46.39798363506809,0 24.2062413706008,46.3985304533033,0 24.2062412652604,46.3985314424036,0 24.2062409501474,46.3985316471879,0 24.2062350694032,46.39856867110339,0 24.2062174381369,46.3985449012093,0 24.2061892675623,46.39856191134119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_20250">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">765</SimpleData>
+					<SimpleData name="PARCEL_NR">440</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">97481</SimpleData>
+					<SimpleData name="CROP_NAME">LUCERNÄ (sămânță certificată)</SimpleData>
+					<SimpleData name="AREA_DEC">2.53</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="INSERTED">13.03.2023 21:34:09</SimpleData>
+					<SimpleData name="UPDATED">27.05.2024 15:06:57</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2029800870643,46.39464424316411,0 24.2029770349701,46.39464316041529,0 24.2029765799,46.3946427741965,0 24.2029760067437,46.3946422884838,0 24.2029667438216,46.394634431472,0 24.2028218694749,46.39454706675859,0 24.2027472090481,46.3945145494654,0 24.2026375930756,46.3943877643165,0 24.20262229542,46.3943700750142,0 24.2026117814896,46.3943579170142,0 24.2026028280671,46.394347560552,0 24.202593426951,46.3943366880655,0 24.2025913165475,46.39433424381419,0 24.2025909583116,46.3943338363939,0 24.202590826731,46.3943336732905,0 24.202590805797,46.3943336490782,0 24.2023839031288,46.3941577657516,0 24.202211712619,46.3939955422745,0 24.2021726492492,46.3939577651278,0 24.2021649967021,46.3939503662756,0 24.2021649325971,46.3939503028406,0 24.2021583148126,46.3939439039089,0 24.2021246359647,46.39391133823889,0 24.2021215451384,46.39390834725301,0 24.2020744769769,46.39386282965571,0 24.2020744277774,46.39386277746429,0 24.2020663600701,46.3938549753568,0 24.2020341345586,46.393825490821,0 24.202007960974,46.3938015464504,0 24.20183321757739,46.3936416700849,0 24.2018328583056,46.3936413346425,0 24.20183285879961,46.3936413338665,0 24.2018328580769,46.3936413332053,0 24.2018329632717,46.3936411613685,0 24.2018331249213,46.3936408865743,0 24.2018332980254,46.3936406088264,0 24.2018359224247,46.3936363168221,0 24.2018359888824,46.3936362183013,0 24.2018372011338,46.3936342380754,0 24.2018388796354,46.3936314962239,0 24.201818235702,46.39361123205061,0 24.2018958553424,46.3935384255852,0 24.2019023829558,46.3935277538284,0 24.201978949282,46.39346387544929,0 24.2020486545175,46.3934166054484,0 24.2020829226023,46.3933933667982,0 24.20209148633529,46.3933875593608,0 24.2021039772985,46.39337908869561,0 24.2021055664966,46.3933780155201,0 24.2021160587769,46.3933709002452,0 24.2021165691863,46.3933657242602,0 24.2021167783976,46.3933635923889,0 24.2021180448816,46.39335071540251,0 24.202120332406,46.393327533282,0 24.2021245422926,46.3932848198758,0 24.202127425052,46.3932555769325,0 24.2020227934469,46.3931565770579,0 24.20201557087,46.3931497419838,0 24.2020147626112,46.3931489804914,0 24.2020145701686,46.3931487991837,0 24.2020145584393,46.393148782536,0 24.2020111108915,46.3931458149725,0 24.2020110894078,46.3931457964835,0 24.2019744697253,46.3931142811232,0 24.20189196981559,46.39304326730161,0 24.2018388974427,46.39301095356061,0 24.2017778431617,46.3929900572987,0 24.2014849600302,46.3928296463004,0 24.2014756286919,46.39282653087569,0 24.2013843081168,46.3928649395644,0 24.2012017113311,46.3929905466881,0 24.2000918842272,46.39364960015889,0 24.2004829989441,46.39394117692811,0 24.200845626725,46.3942244552946,0 24.2008742487204,46.3942237548107,0 24.2014684844563,46.3944996456786,0 24.2015918983229,46.3945985877602,0 24.2016150498026,46.3947058305076,0 24.20157407538,46.3948405222242,0 24.201662881462,46.3949941139593,0 24.2019997881974,46.3952583128255,0 24.2029800870643,46.39464424316411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#stylemap_id10</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#RO000240789_202512">
+					<SimpleData name="FARM_ID">RO000240789</SimpleData>
+					<SimpleData name="YEAR">2025</SimpleData>
+					<SimpleData name="JUDET">MS</SimpleData>
+					<SimpleData name="SIRUTA">117827</SimpleData>
+					<SimpleData name="COMMUNE">ORAS IERNUT</SimpleData>
+					<SimpleData name="BLOC_NR">765</SimpleData>
+					<SimpleData name="PARCEL_NR">565</SimpleData>
+					<SimpleData name="CROP_NR">a</SimpleData>
+					<SimpleData name="CAT_USE">TA</SimpleData>
+					<SimpleData name="CROP_CODE">108</SimpleData>
+					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="AREA_DEC">2.02</SimpleData>
+					<SimpleData name="AGRO_ENV">nu</SimpleData>
+					<SimpleData name="COMMENT">Deag - sub padurea Deagului, sola lunga</SimpleData>
+					<SimpleData name="INSERTED">16.03.2016 09:29:41</SimpleData>
+					<SimpleData name="UPDATED">02.04.2024 12:33:03</SimpleData>
+					<SimpleData name="STATUS">1</SimpleData>
+					<SimpleData name="FULL_BLOC">2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							24.2038850408047,46.3967092546909,0 24.2038846091735,46.3967094226665,0 24.2038726163551,46.396714000648,0 24.2038021696074,46.39658618477451,0 24.20372250958834,46.39649596308721,0 24.20358718547863,46.39632902069688,0 24.20348446930214,46.39622689632011,0 24.20316459713802,46.39604388659275,0 24.20295711046111,46.3958862274918,0 24.20265591463438,46.39558437495376,0 24.20289738386989,46.39543798475661,0 24.20313678592234,46.39528808457517,0 24.20347711130057,46.39552368355896,0 24.20377604582327,46.39572024434027,0 24.20450782801518,46.39618413614337,0 24.2045228652745,46.3961992371777,0 24.2045234987037,46.3961996652836,0 24.2045266651579,46.3962018110219,0 24.204639535453,46.39624901653719,0 24.2047473464502,46.39628905110041,0 24.2048191991059,46.3963181191952,0 24.2048282895307,46.3963210987036,0 24.2048730345121,46.39633576838911,0 24.2048817892289,46.3963392394739,0 24.2050128144997,46.3965078695564,0 24.2050128272438,46.3965078876416,0 24.2050128342748,46.3965078926046,0 24.2050128376119,46.39650789774591,0 24.2049832208378,46.3965199113907,0 24.2050088393223,46.3965470842577,0 24.2050935646246,46.39657910287859,0 24.2051845463203,46.3966308623863,0 24.2052581650775,46.39667274723119,0 24.2052692448323,46.3966790480228,0 24.2052693626347,46.39667911504161,0 24.20547950496699,46.3967533497919,0 24.2055484839175,46.396804902441,0 24.2055489802614,46.3968056501885,0 24.2055727337124,46.396841508582,0 24.2055750218408,46.3968449673253,0 24.2056000069378,46.39688269085291,0 24.2056436158002,46.3968979932014,0 24.2056705510487,46.39690744063579,0 24.2057027832511,46.3969187512708,0 24.2058731228474,46.3970389859361,0 24.2060399730634,46.39719311429669,0 24.2061942095582,46.3973201597907,0 24.2062456271334,46.3973498546218,0 24.2064178820719,46.3974898440248,0 24.2064246487545,46.3974922439248,0 24.2064348456949,46.3974958634005,0 24.2065178546904,46.3975253045253,0 24.2066445683121,46.3976562173507,0 24.2057977542023,46.3982099092485,0 24.2057962360065,46.3982087649352,0 24.205774930561,46.3981917543663,0 24.2057142967618,46.39814334549899,0 24.2056351715108,46.39808017090201,0 24.2054474499161,46.3979174615868,0 24.2053454799297,46.3978603962578,0 24.2051654923328,46.3976994653119,0 24.2050293530073,46.39759117138099,0 24.2049323390548,46.3975198330553,0 24.2048675588881,46.3974721897357,0 24.2046509600001,46.3972949037501,0 24.2044666299166,46.3971661447702,0 24.20437111048919,46.3970882397307,0 24.2043415459422,46.39706412582791,0 24.2043243341359,46.3970500913909,0 24.2043032031254,46.397032856306,0 24.2041208931067,46.3968987452525,0 24.2038850808426,46.3967092454053,0 24.2038850785814,46.396709246269,0 24.2038850408047,46.3967092546909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
