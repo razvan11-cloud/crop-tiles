@@ -13,7 +13,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -33,7 +34,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -53,7 +55,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -73,7 +76,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -93,7 +97,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -113,7 +118,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -133,7 +139,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -153,7 +160,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -173,7 +181,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -193,7 +202,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -213,7 +223,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -233,7 +244,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -253,7 +265,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -273,7 +286,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -293,7 +307,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -313,7 +328,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -333,7 +349,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -353,7 +370,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -373,7 +391,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -393,7 +412,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -413,7 +433,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -433,7 +454,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -453,7 +475,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -473,7 +496,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -493,7 +517,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -513,7 +538,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -533,7 +559,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -553,7 +580,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -573,7 +601,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -593,7 +622,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -613,7 +643,8 @@
 		<SimpleField type="string" name="CROP_NR"></SimpleField>
 		<SimpleField type="string" name="CAT_USE"></SimpleField>
 		<SimpleField type="float" name="CROP_CODE"></SimpleField>
-		<SimpleField type="string" name="CROP_NAME"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2024"></SimpleField>
+		<SimpleField type="string" name="CROP_NAME2025"></SimpleField>
 		<SimpleField type="string" name="AREA_DEC"></SimpleField>
 		<SimpleField type="string" name="AGRO_ENV"></SimpleField>
 		<SimpleField type="string" name="COMMENT"></SimpleField>
@@ -977,7 +1008,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamnă</SimpleData>
 					<SimpleData name="AREA_DEC">7.68</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - sola 3453, partea de sus</SimpleData>
@@ -1012,6 +1044,7 @@
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
 					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamnă</SimpleData>
 					<SimpleData name="AREA_DEC">4.28</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3453, partea de jos</SimpleData>
@@ -1052,7 +1085,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Soia</SimpleData>
 					<SimpleData name="AREA_DEC">5.09</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">24.03.2021 15:13:32</SimpleData>
@@ -1092,7 +1126,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamnă</SimpleData>
 					<SimpleData name="AREA_DEC">3.04</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">06.03.2023 21:15:07</SimpleData>
@@ -1132,7 +1167,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Soia</SimpleData>
 					<SimpleData name="AREA_DEC">0.60</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - Hagau, a doua obratie, 0.60ha</SimpleData>
@@ -1173,7 +1209,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">PORUMB</SimpleData>
 					<SimpleData name="AREA_DEC">1.92</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3042, Detesan Toader, Deghi Alexandru</SimpleData>
@@ -1214,7 +1251,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">3017</SimpleData>
-					<SimpleData name="CROP_NAME">SFECLÄ‚ DE ZAHÄ‚R</SimpleData>
+					<SimpleData name="CROP_NAME2024">SFECLÄ‚ DE ZAHÄ‚R</SimpleData>
+					<SimpleData name="CROP_NAME2025">PORUMB</SimpleData>
 					<SimpleData name="AREA_DEC">6.67</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">La Deag - 2950, Barbu Ioan</SimpleData>
@@ -1248,7 +1286,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">6.13</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">30.03.2023 20:16:58</SimpleData>
@@ -1288,7 +1327,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">3.14</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">30.03.2023 20:13:38</SimpleData>
@@ -1321,7 +1361,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">1.06</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">06.05.2020 17:13:34</SimpleData>
@@ -1361,7 +1402,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">1.25</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - sub pasune, langa vale</SimpleData>
@@ -1395,7 +1437,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">5.54</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">13.03.2023 21:16:59</SimpleData>
@@ -1428,7 +1471,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">10.55</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">30.04.2023 09:14:27</SimpleData>
@@ -1468,7 +1512,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">97481</SimpleData>
-					<SimpleData name="CROP_NAME">LUCERNÄ (sămânță certificată)</SimpleData>
+					<SimpleData name="CROP_NAME2024">LUCERNÄ (sămânță certificată)</SimpleData>
+					<SimpleData name="CROP_NAME2025">LUCERNÄ (sămânță certificată)</SimpleData>
 					<SimpleData name="AREA_DEC">5.33</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3005, sola noua, jos catre Seulia</SimpleData>
@@ -1502,7 +1547,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">12.18</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3496</SimpleData>
@@ -1537,7 +1583,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">14.32</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">30.03.2023 20:12:18</SimpleData>
@@ -1570,7 +1617,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">3.37</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3441, la nuc</SimpleData>
@@ -1611,7 +1659,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">1.15</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3441</SimpleData>
@@ -1652,7 +1701,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Soia</SimpleData>
 					<SimpleData name="AREA_DEC">10.81</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - Hagau, sub Cigasie</SimpleData>
@@ -1693,7 +1743,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Soia</SimpleData>
 					<SimpleData name="AREA_DEC">10.68</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - Sub Cigasie, Hagau, sola catre Deag</SimpleData>
@@ -1734,7 +1785,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Soia</SimpleData>
 					<SimpleData name="AREA_DEC">10.22</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3505</SimpleData>
@@ -1783,7 +1835,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Floarea soarelui</SimpleData>
 					<SimpleData name="AREA_DEC">54.59</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">09.03.2022 12:37:13</SimpleData>
@@ -1823,7 +1876,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">3017</SimpleData>
-					<SimpleData name="CROP_NAME">SFECLÄ‚ DE ZAHÄ‚R</SimpleData>
+					<SimpleData name="CROP_NAME2024">SFECLÄ‚ DE ZAHÄ‚R</SimpleData>
+					<SimpleData name="CROP_NAME2025">Porumb</SimpleData>
 					<SimpleData name="AREA_DEC">2.62</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3042, Coman Maria</SimpleData>
@@ -1864,7 +1918,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">Soia</SimpleData>
 					<SimpleData name="AREA_DEC">3.62</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">05.04.2019 12:36:34</SimpleData>
@@ -1898,7 +1953,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">3.70</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">30.05.2016 15:07:24</SimpleData>
@@ -1932,7 +1988,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">Rapita de toamna</SimpleData>
 					<SimpleData name="AREA_DEC">1.41</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 3302/2/18</SimpleData>
@@ -1967,7 +2024,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">101</SimpleData>
-					<SimpleData name="CROP_NAME">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2024">GRÂU COMUN de toamnă</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">4.92</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">DEAG 3298/2, 3298/3, 3298/4</SimpleData>
@@ -2008,7 +2066,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">1.00</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - 2983/27</SimpleData>
@@ -2049,7 +2108,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">2.29</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">22.04.2023 12:24:26</SimpleData>
@@ -2089,7 +2149,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">97481</SimpleData>
-					<SimpleData name="CROP_NAME">LUCERNÄ (sămânță certificată)</SimpleData>
+					<SimpleData name="CROP_NAME2024">LUCERNÄ (sămânță certificată)</SimpleData>
+					<SimpleData name="CROP_NAME2025">LUCERNÄ (sămânță certificată)</SimpleData>
 					<SimpleData name="AREA_DEC">2.53</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="INSERTED">13.03.2023 21:34:09</SimpleData>
@@ -2122,7 +2183,8 @@
 					<SimpleData name="CROP_NR">a</SimpleData>
 					<SimpleData name="CAT_USE">TA</SimpleData>
 					<SimpleData name="CROP_CODE">108</SimpleData>
-					<SimpleData name="CROP_NAME">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2024">PORUMB</SimpleData>
+					<SimpleData name="CROP_NAME2025">?</SimpleData>
 					<SimpleData name="AREA_DEC">2.02</SimpleData>
 					<SimpleData name="AGRO_ENV">nu</SimpleData>
 					<SimpleData name="COMMENT">Deag - sub padurea Deagului, sola lunga</SimpleData>
