@@ -22,6 +22,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+		<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202525">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -43,6 +44,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202524">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -64,6 +66,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202523">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -85,6 +88,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202522">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -106,6 +110,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202519">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -127,6 +132,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202518">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -148,6 +154,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202517">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -169,6 +176,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202516">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -190,6 +198,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202515">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -211,6 +220,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202514">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -232,6 +242,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20259">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -253,6 +264,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20258">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -274,6 +286,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20257">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -295,6 +308,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20255">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -316,6 +330,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20254">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -337,6 +352,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20253">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -358,6 +374,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_2025">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -379,6 +396,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20250">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -400,6 +418,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20252">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -421,6 +440,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20251">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -442,6 +462,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202501">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -463,6 +484,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202500">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -484,6 +506,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_2025010">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -505,6 +528,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202502">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -526,6 +550,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202510">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -547,6 +572,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_2025100">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -568,6 +594,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_2025110">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -589,6 +616,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202512">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -610,6 +638,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202513">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -631,6 +660,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_2025140">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -652,6 +682,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202521">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -673,6 +704,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202520">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -694,6 +726,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202530">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -715,6 +748,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202540">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -736,6 +770,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202550">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -757,6 +792,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_20256">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -778,6 +814,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202570">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -799,6 +836,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202580">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -820,6 +858,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO000240789_2025" id="RO000240789_202590">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -841,6 +880,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2024" id="RO002357778_2024">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -862,6 +902,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2024" id="RO002357778_20240">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -883,6 +924,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2024" id="RO002357778_20241">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -904,6 +946,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2024" id="RO002357778_20242">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -925,6 +968,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2024" id="RO002357778_20243">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -946,6 +990,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2024" id="RO002357778_20244">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -967,6 +1012,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2025" id="RO002357778_2025">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -988,6 +1034,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2025" id="RO002357778_20250">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -1009,6 +1056,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2025" id="RO002357778_20251">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -1030,6 +1078,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2025" id="RO002357778_20252">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -1051,6 +1100,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Schema name="RO002357778_2025" id="RO002357778_20253">
 		<SimpleField type="string" name="FARM_ID"></SimpleField>
@@ -1072,6 +1122,7 @@
 		<SimpleField type="string" name="UPDATED"></SimpleField>
 		<SimpleField type="string" name="STATUS"></SimpleField>
 		<SimpleField type="string" name="FULL_BLOC"></SimpleField>
+<SimpleField type="string" name="VILLAGE"></SimpleField>
 	</Schema>
 	<Style id="style1">
 		<LineStyle>
@@ -1568,6 +1619,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:28:47</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>	
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1604,6 +1656,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:29:00</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1646,6 +1699,7 @@
 					<SimpleData name="UPDATED">24.04.2024 11:57:53</SimpleData>
 					<SimpleData name="STATUS">2</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1688,6 +1742,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:31:48</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1731,6 +1786,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:32:15</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1774,6 +1830,7 @@
 					<SimpleData name="UPDATED">02.04.2024 10:07:01</SimpleData>
 					<SimpleData name="STATUS">2</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1817,6 +1874,7 @@
 					<SimpleData name="UPDATED">07.03.2024 10:39:19</SimpleData>
 					<SimpleData name="STATUS">2</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1852,6 +1910,7 @@
 					<SimpleData name="UPDATED">02.04.2024 10:05:57</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1894,6 +1953,7 @@
 					<SimpleData name="UPDATED">02.04.2024 10:06:04</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1929,6 +1989,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:30:42</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -1972,6 +2033,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:31:00</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2007,6 +2069,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:30:52</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<gx:balloonVisibility>1</gx:balloonVisibility>
@@ -2043,6 +2106,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:31:14</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2086,6 +2150,7 @@
 					<SimpleData name="UPDATED">27.05.2024 15:07:23</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2122,6 +2187,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:28:33</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2157,6 +2223,7 @@
 					<SimpleData name="UPDATED">03.04.2024 09:36:40</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2193,6 +2260,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:27:57</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2236,6 +2304,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:28:08</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2279,6 +2348,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:31:40</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2322,6 +2392,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:31:34</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2365,6 +2436,7 @@
 					<SimpleData name="UPDATED">19.04.2024 10:56:09</SimpleData>
 					<SimpleData name="STATUS">2</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2414,6 +2486,7 @@
 					<SimpleData name="UPDATED">29.04.2024 16:33:19</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2457,6 +2530,7 @@
 					<SimpleData name="UPDATED">07.03.2024 10:39:06</SimpleData>
 					<SimpleData name="STATUS">2</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2499,6 +2573,7 @@
 					<SimpleData name="UPDATED">02.04.2024 10:05:39</SimpleData>
 					<SimpleData name="STATUS">2</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2534,6 +2609,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:30:08</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2570,6 +2646,7 @@
 					<SimpleData name="UPDATED">02.04.2024 10:05:47</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2606,6 +2683,7 @@
 					<SimpleData name="UPDATED">02.04.2024 10:05:31</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2649,6 +2727,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:33:21</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2691,6 +2770,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:33:12</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2733,6 +2813,7 @@
 					<SimpleData name="UPDATED">27.05.2024 15:06:57</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2769,6 +2850,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:33:03</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Deag</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2803,7 +2885,8 @@
 					<SimpleData name="INSERTED">04.03.2024 15:33:48</SimpleData>
 					<SimpleData name="UPDATED">04.03.2024 15:34:39</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
-					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="FULL_BLOC">0</SimpleData>	
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2847,6 +2930,7 @@
 					<SimpleData name="UPDATED">11.04.2024 20:22:41</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2890,6 +2974,7 @@
 					<SimpleData name="UPDATED">02.05.2024 15:49:26</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2944,6 +3029,7 @@
 					<SimpleData name="UPDATED">11.04.2024 20:22:55</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -2987,6 +3073,7 @@
 					<SimpleData name="UPDATED">04.03.2024 15:46:31</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3029,6 +3116,7 @@
 					<SimpleData name="UPDATED">02.05.2024 15:19:18</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3072,6 +3160,7 @@
 					<SimpleData name="UPDATED">26.03.2024 12:46:55</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3115,6 +3204,7 @@
 					<SimpleData name="UPDATED">26.03.2024 12:47:33</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3157,6 +3247,7 @@
 					<SimpleData name="UPDATED">04.03.2024 15:36:25</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3199,6 +3290,7 @@
 					<SimpleData name="UPDATED">02.05.2024 15:49:57</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3242,6 +3334,7 @@
 					<SimpleData name="UPDATED">26.03.2024 12:50:06</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3277,6 +3370,7 @@
 					<SimpleData name="UPDATED">27.05.2024 12:41:27</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Bord</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3331,6 +3425,7 @@
 					<SimpleData name="UPDATED">07.05.2024 08:51:38</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3374,6 +3469,7 @@
 					<SimpleData name="UPDATED">02.05.2024 15:34:59</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">0</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3417,6 +3513,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:36:47</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">1</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3459,6 +3556,7 @@
 					<SimpleData name="UPDATED">28.05.2024 08:48:49</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3502,6 +3600,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:34:59</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3545,6 +3644,7 @@
 					<SimpleData name="UPDATED">02.04.2024 12:38:33</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3580,6 +3680,7 @@
 					<SimpleData name="UPDATED">27.05.2024 12:34:24</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">2</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
@@ -3616,6 +3717,7 @@
 					<SimpleData name="UPDATED">08.05.2024 10:41:17</SimpleData>
 					<SimpleData name="STATUS">1</SimpleData>
 					<SimpleData name="FULL_BLOC">4</SimpleData>
+					<SimpleData name="VILLAGE">Seulia</SimpleData>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
