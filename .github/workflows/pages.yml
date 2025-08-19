@@ -1,10 +1,14 @@
-# New workflow to deploy to a 'gh-pages' branch, bypassing the 1GB artifact limit
+# Updated workflow with explicit permissions and user info
 name: Deploy to gh-pages branch
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
+
+# NEW: Explicitly grant write permissions to the job
+permissions:
+  contents: write
 
 jobs:
   deploy:
@@ -13,15 +17,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # This is still the crucial step to get the actual image files
           lfs: true
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          # This token is required to allow the action to push to your repository
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # This is the directory to publish, '.' means the entire repository
           publish_dir: .
-          # This ensures the gh-pages branch is always clean, containing only the latest deployment
           force_orphan: true
+          # NEW: Add user info for the commit
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
